@@ -1,0 +1,172 @@
+HCPCS_Cd,Rndrng_Prvdr_Type,Total_Services,Total_Providers,Total_Beneficiaries
+64635,Ambulatory Surgical Center,116877,1165,62294
+77002,Physical Medicine and Rehabilitation,71151,796,35858
+64636,Pain Management,66738,1321,49783
+64635,Pain Management,65319,1390,53233
+77002,Pain Management,61057,892,35340
+77002,Diagnostic Radiology,58345,1912,53266
+64636,Anesthesiology,53391,1103,38646
+64635,Anesthesiology,50725,1162,41513
+64636,Interventional Pain Management,49729,836,35029
+64635,Interventional Pain Management,46388,867,37346
+64636,Physical Medicine and Rehabilitation,44823,1085,32504
+64635,Physical Medicine and Rehabilitation,44647,1156,36220
+77002,Interventional Pain Management,43048,550,24553
+77002,Nurse Practitioner,43045,253,10727
+77002,Anesthesiology,41581,784,26378
+77002,Orthopedic Surgery,33612,668,21556
+77002,Family Practice,30978,50,7100
+64633,Ambulatory Surgical Center,28257,615,16731
+77002,Physician Assistant,26518,460,16225
+64633,Pain Management,13993,527,11194
+64634,Pain Management,13876,477,9976
+64634,Interventional Pain Management,12305,366,8516
+64633,Interventional Pain Management,11692,391,9305
+77002,General Practice,11194,11,1723
+64640,Orthopedic Surgery,9748,62,2343
+77002,Emergency Medicine,9674,16,2626
+64634,Anesthesiology,9569,339,6781
+64633,Anesthesiology,9504,381,7665
+77002,Internal Medicine,8496,32,1758
+77002,Interventional Radiology,7926,289,7511
+64640,Physician Assistant,7836,43,1785
+64640,Anesthesiology,6532,93,2492
+64633,Physical Medicine and Rehabilitation,6445,289,5171
+64640,Pain Management,6058,85,2174
+64640,Podiatry,6008,62,1718
+64634,Physical Medicine and Rehabilitation,5994,246,4245
+77002,Vascular Surgery,5523,2,760
+77002,General Surgery,5133,7,906
+64640,Ambulatory Surgical Center,4952,72,1916
+64640,Nurse Practitioner,4321,30,942
+64624,Ambulatory Surgical Center,3805,140,2947
+64640,Physical Medicine and Rehabilitation,3636,46,1142
+77002,Hand Surgery,3607,77,2847
+77002,Sports Medicine,3389,28,1567
+64640,Sports Medicine,3270,20,726
+77002,Podiatry,3061,58,1872
+64625,Ambulatory Surgical Center,2967,79,1841
+64640,Family Practice,2810,9,520
+64624,Pain Management,2663,112,2139
+64640,Interventional Pain Management,2391,49,1041
+77002,Hospice and Palliative Care,2058,1,268
+64625,Pain Management,2017,58,1326
+64624,Anesthesiology,1784,82,1500
+77002,Obstetrics & Gynecology,1755,2,324
+64625,Interventional Pain Management,1686,53,1298
+64636,Neurology,1674,34,1074
+77002,Neurology,1617,29,906
+77002,Plastic and Reconstructive Surgery,1606,18,907
+64624,Physical Medicine and Rehabilitation,1548,72,1248
+77002,Urology,1541,6,307
+77002,Osteopathic Manipulative Medicine,1480,5,299
+64635,Neurology,1437,35,1173
+64625,Anesthesiology,1335,40,996
+64636,Diagnostic Radiology,1129,26,796
+77002,Independent Diagnostic Testing Facility (IDTF),1121,35,1056
+64636,Orthopedic Surgery,1099,29,687
+64635,Orthopedic Surgery,1087,36,878
+64635,Diagnostic Radiology,1074,27,873
+64624,Interventional Pain Management,989,50,803
+64636,Neurosurgery,954,17,557
+64640,Certified Registered Nurse Anesthetist (CRNA),896,13,332
+64640,Diagnostic Radiology,846,8,222
+64635,Neurosurgery,818,20,700
+64624,Orthopedic Surgery,808,15,758
+64640,Neurology,764,10,242
+64625,Physical Medicine and Rehabilitation,726,33,604
+64636,Certified Registered Nurse Anesthetist (CRNA),726,20,553
+64635,Certified Registered Nurse Anesthetist (CRNA),701,20,587
+64624,Sports Medicine,632,11,556
+64636,Internal Medicine,628,11,308
+77002,Preventive Medicine,613,2,229
+64640,Rheumatology,561,6,124
+64636,Interventional Radiology,513,10,345
+64635,Internal Medicine,497,12,348
+64635,Sports Medicine,482,11,379
+64635,Interventional Radiology,482,10,364
+64636,Sports Medicine,458,10,325
+64635,Family Practice,437,12,366
+64636,Family Practice,397,12,310
+64634,Neurology,374,12,237
+64624,Family Practice,360,10,305
+64633,Neurology,319,13,257
+64635,Psychiatry,309,3,237
+64636,Psychiatry,305,3,234
+64635,Emergency Medicine,291,8,255
+64640,Emergency Medicine,271,4,88
+77002,Hospitalist,264,1,28
+77002,Rheumatology,263,6,165
+64624,Certified Registered Nurse Anesthetist (CRNA),231,11,189
+64636,Emergency Medicine,225,6,185
+64624,Physician Assistant,225,6,220
+77002,Certified Registered Nurse Anesthetist (CRNA),212,8,161
+64634,Neurosurgery,206,6,101
+64635,Osteopathic Manipulative Medicine,201,5,189
+64640,Internal Medicine,186,2,69
+64633,Diagnostic Radiology,179,7,148
+64636,Osteopathic Manipulative Medicine,169,4,155
+64634,Orthopedic Surgery,167,5,81
+64633,Orthopedic Surgery,163,9,147
+64634,Diagnostic Radiology,161,6,129
+64636,Physician Assistant,152,5,121
+64633,Neurosurgery,151,7,120
+64635,Physician Assistant,150,5,127
+77002,Radiation Oncology,146,5,130
+77002,Neurosurgery,135,2,45
+64640,Obstetrics & Gynecology,126,1,23
+64635,General Surgery,126,2,93
+64636,General Surgery,125,2,92
+64633,Sports Medicine,120,4,86
+64635,Preventive Medicine,115,4,97
+64636,Preventive Medicine,105,3,83
+64635,Undefined Physician type,83,2,65
+77002,Psychiatry,83,2,72
+64636,Undefined Physician type,81,2,64
+64634,Sports Medicine,80,3,52
+64633,Psychiatry,79,3,57
+64634,Psychiatry,77,3,55
+64635,Nurse Practitioner,73,2,61
+77002,Undefined Physician type,72,2,69
+64636,Nurse Practitioner,71,2,59
+64624,Nurse Practitioner,68,3,66
+64633,Certified Registered Nurse Anesthetist (CRNA),66,3,57
+64625,Neurology,66,2,52
+64634,Internal Medicine,63,2,24
+64624,Diagnostic Radiology,62,4,57
+64640,General Practice,61,1,17
+64633,Emergency Medicine,51,3,43
+64634,Certified Registered Nurse Anesthetist (CRNA),49,2,42
+64633,Internal Medicine,49,3,35
+64624,Internal Medicine,48,1,42
+64625,Neurosurgery,46,3,40
+64634,Family Practice,45,1,29
+64625,Diagnostic Radiology,44,2,34
+64636,Critical Care (Intensivists),42,1,16
+64636,General Practice,38,2,28
+64635,General Practice,37,2,29
+64634,Emergency Medicine,36,2,30
+64633,Family Practice,36,1,29
+64633,Interventional Radiology,35,2,29
+64625,Orthopedic Surgery,34,2,28
+64633,Osteopathic Manipulative Medicine,34,1,33
+64634,Interventional Radiology,34,2,29
+64634,Osteopathic Manipulative Medicine,31,1,31
+64624,Emergency Medicine,31,2,28
+64640,Endocrinology,31,1,21
+64625,Preventive Medicine,30,1,23
+64640,Otolaryngology,26,1,21
+64625,Undefined Physician type,24,1,20
+64633,Undefined Physician type,19,1,14
+64634,Undefined Physician type,19,1,14
+77002,Peripheral Vascular Disease,18,1,18
+64635,Critical Care (Intensivists),17,1,17
+64634,Preventive Medicine,15,1,13
+64633,Physician Assistant,14,1,12
+64633,Preventive Medicine,14,1,13
+64624,Interventional Radiology,14,1,13
+64640,Interventional Radiology,13,1,11
+64625,Interventional Radiology,13,1,13
+64624,Rheumatology,13,1,11
+64634,Physician Assistant,12,1,11
+64625,Sports Medicine,12,1,12

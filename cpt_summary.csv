@@ -1,0 +1,153 @@
+HCPCS_Cd,Place_Of_Srvc,Rndrng_Prvdr_RUCA_Desc,Total_Beneficiaries,Unique_Providers,Provider_Density
+64624,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",7644,314,0.04107796964939822
+64624,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",96,5,0.052083333333333336
+64624,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",787,27,0.03430749682337993
+64624,F,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",99,5,0.050505050505050504
+64624,F,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",42,2,0.047619047619047616
+64624,F,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",40,3,0.075
+64624,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",116,3,0.02586206896551724
+64624,F,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",27,1,0.037037037037037035
+64624,F,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",88,5,0.056818181818181816
+64624,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",3637,137,0.037668408028594995
+64624,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",41,3,0.07317073170731707
+64624,O,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",16,1,0.0625
+64624,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",219,13,0.0593607305936073
+64624,O,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",23,1,0.043478260869565216
+64624,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",40,3,0.075
+64624,O,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",47,2,0.0425531914893617
+64625,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",4477,161,0.03596158141612687
+64625,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",63,3,0.047619047619047616
+64625,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",434,14,0.03225806451612903
+64625,F,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",28,1,0.03571428571428571
+64625,F,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",87,4,0.04597701149425287
+64625,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",89,3,0.033707865168539325
+64625,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",2690,80,0.02973977695167286
+64625,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",46,2,0.043478260869565216
+64625,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",111,3,0.02702702702702703
+64625,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",334,8,0.023952095808383235
+64625,O,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",18,1,0.05555555555555555
+64633,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",39162,1375,0.03511056636535417
+64633,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",652,26,0.03987730061349693
+64633,F,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",43,2,0.046511627906976744
+64633,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",2321,85,0.03662214562688496
+64633,F,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",306,7,0.02287581699346405
+64633,F,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",54,1,0.018518518518518517
+64633,F,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",980,39,0.03979591836734694
+64633,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",47,2,0.0425531914893617
+64633,F,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",114,6,0.05263157894736842
+64633,F,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",132,6,0.045454545454545456
+64633,O,"""Urban""",29,2,0.06896551724137931
+64633,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",18012,658,0.03653120142127471
+64633,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",345,15,0.043478260869565216
+64633,O,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",16,1,0.0625
+64633,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",954,44,0.04612159329140461
+64633,O,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",61,3,0.04918032786885246
+64633,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",465,19,0.04086021505376344
+64633,O,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",83,5,0.060240963855421686
+64633,O,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",156,7,0.04487179487179487
+64634,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",17194,716,0.041642433407002445
+64634,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",311,15,0.04823151125401929
+64634,F,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",20,1,0.05
+64634,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",1212,46,0.037953795379537955
+64634,F,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",139,4,0.02877697841726619
+64634,F,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",21,1,0.047619047619047616
+64634,F,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",439,20,0.04555808656036447
+64634,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",33,1,0.030303030303030304
+64634,F,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",70,4,0.05714285714285714
+64634,F,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",82,4,0.04878048780487805
+64634,O,"""Urban""",17,1,0.058823529411764705
+64634,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",16566,616,0.03718459495351926
+64634,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",300,13,0.043333333333333335
+64634,O,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",14,1,0.07142857142857142
+64634,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",807,37,0.04584882280049566
+64634,O,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",55,3,0.05454545454545454
+64634,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",451,20,0.04434589800443459
+64634,O,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",46,3,0.06521739130434782
+64634,O,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",137,6,0.043795620437956206
+64635,F,"""Urban""",19,1,0.05263157894736842
+64635,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",164391,3449,0.02098046730052132
+64635,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",3412,74,0.021688159437280186
+64635,F,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",287,4,0.013937282229965157
+64635,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",10945,245,0.022384650525354044
+64635,F,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",1116,15,0.013440860215053764
+64635,F,"Micropolitan low commuting: primary flow 10% to <30% to a urban cluster of 10,000 to 49,999",99,1,0.010101010101010102
+64635,F,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",292,5,0.017123287671232876
+64635,F,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",3988,88,0.022066198595787363
+64635,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",174,3,0.017241379310344827
+64635,F,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",525,16,0.030476190476190476
+64635,F,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",1349,33,0.02446256486286138
+64635,O,"""Rural""",17,1,0.058823529411764705
+64635,O,"""Urban""",160,2,0.0125
+64635,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",92754,2025,0.02183194255773336
+64635,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",1946,46,0.023638232271325797
+64635,O,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",107,2,0.018691588785046728
+64635,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",5212,126,0.02417498081350729
+64635,O,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",424,7,0.01650943396226415
+64635,O,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",239,5,0.02092050209205021
+64635,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",2772,54,0.01948051948051948
+64635,O,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",441,13,0.02947845804988662
+64635,O,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",757,18,0.023778071334214
+64636,F,"""Urban""",19,1,0.05263157894736842
+64636,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",87246,2272,0.026041308484056575
+64636,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",1640,43,0.02621951219512195
+64636,F,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",195,3,0.015384615384615385
+64636,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",7206,173,0.024007771301693032
+64636,F,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",615,10,0.016260162601626018
+64636,F,"Micropolitan low commuting: primary flow 10% to <30% to a urban cluster of 10,000 to 49,999",94,1,0.010638297872340425
+64636,F,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",223,5,0.02242152466367713
+64636,F,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",1924,50,0.02598752598752599
+64636,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",128,2,0.015625
+64636,F,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",356,12,0.033707865168539325
+64636,F,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",1005,25,0.024875621890547265
+64636,O,"""Rural""",14,1,0.07142857142857142
+64636,O,"""Urban""",149,2,0.013422818791946308
+64636,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",87217,1925,0.02207138516573604
+64636,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",1838,45,0.024483133841131665
+64636,O,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",107,2,0.018691588785046728
+64636,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",4922,124,0.02519301097114994
+64636,O,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",407,7,0.0171990171990172
+64636,O,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",226,5,0.022123893805309734
+64636,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",2638,54,0.02047005307050796
+64636,O,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",392,12,0.030612244897959183
+64636,O,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",714,18,0.025210084033613446
+64640,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",7705,241,0.03127839065541856
+64640,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",56,2,0.03571428571428571
+64640,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",1394,31,0.02223816355810617
+64640,F,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",113,4,0.035398230088495575
+64640,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",82,4,0.04878048780487805
+64640,F,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",11,1,0.09090909090909091
+64640,F,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",167,5,0.029940119760479042
+64640,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",11911,296,0.02485097808748216
+64640,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",252,8,0.031746031746031744
+64640,O,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",50,1,0.02
+64640,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",1387,22,0.015861571737563085
+64640,O,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",92,2,0.021739130434782608
+64640,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",448,9,0.020089285714285716
+64640,O,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",64,3,0.046875
+64640,O,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",61,3,0.04918032786885246
+64640,O,"Small town high commuting: primary flow 30% or more to a urban cluster of 2,500 to 9,999",23,1,0.043478260869565216
+77002,F,"""Urban""",45,1,0.022222222222222223
+77002,F,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",79591,2674,0.03359676345315425
+77002,F,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",1087,43,0.03955841766329347
+77002,F,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",8156,274,0.03359489946051986
+77002,F,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",468,16,0.03418803418803419
+77002,F,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",276,12,0.043478260869565216
+77002,F,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",831,31,0.03730445246690734
+77002,F,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",270,5,0.018518518518518517
+77002,F,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",418,15,0.03588516746411483
+77002,F,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",1537,45,0.029277813923227064
+77002,F,"Small town high commuting: primary flow 30% or more to a urban cluster of 2,500 to 9,999",63,1,0.015873015873015872
+77002,O,"""Rural""",33,1,0.030303030303030304
+77002,O,"""Urban""",184,2,0.010869565217391304
+77002,O,"Metropolitan area core: primary flow within an urbanized area of 50,000 and greater",349930,3645,0.010416368988083331
+77002,O,"Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50,000 and greater",13682,96,0.00701651805291624
+77002,O,"Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50,000 and greater",121,2,0.01652892561983471
+77002,O,"Micropolitan area core: primary flow within an urban cluster of 10,000 to 49,999",9669,198,0.020477815699658702
+77002,O,"Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10,000 to 49,999",353,5,0.014164305949008499
+77002,O,"Rural areas: primary flow to a tract outside a urbanized area of 50,000 and greater or UC",603,9,0.014925373134328358
+77002,O,"Secondary flow 30% to <50% to a larger urbanized area of 50,000 and greater",6900,79,0.01144927536231884
+77002,O,"Secondary flow 30% to <50% to a urban cluster of 10,000 to 49,999",583,4,0.00686106346483705
+77002,O,"Secondary flow 30% to <50% to a urbanized area of 50,000 and greater",1461,16,0.010951403148528405
+77002,O,"Small town core: primary flow within an urban cluster of 2,500 to 9,999",2376,23,0.00968013468013468
+77002,O,"Small town high commuting: primary flow 30% or more to a urban cluster of 2,500 to 9,999",61,2,0.03278688524590164
+77002,O,"Small town low commuting: primary flow 10% to <30% to a urban cluster of 2,500 to 9,999",674,3,0.004451038575667656

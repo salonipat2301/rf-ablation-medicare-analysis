@@ -1,0 +1,791 @@
+Rndrng_Prvdr_Geo_Lvl,Rndrng_Prvdr_Geo_Cd,Rndrng_Prvdr_Geo_Desc,HCPCS_Cd,HCPCS_Desc,HCPCS_Drug_Ind,Place_Of_Srvc,Tot_Rndrng_Prvdrs,Tot_Benes,Tot_Srvcs,Tot_Bene_Day_Srvcs,Avg_Sbmtd_Chrg,Avg_Mdcr_Alowd_Amt,Avg_Mdcr_Pymt_Amt,Avg_Mdcr_Stdzd_Amt
+National,,National,64624,Destruction of nerve branches of knee using imaging guidance,N,F,3963,12985,22612,21933,2366.5723886,368.76979126,290.04430214,290.96922033
+National,,National,64624,Destruction of nerve branches of knee using imaging guidance,N,O,2244,9277,11275,11268,1602.1509366,362.5517561,283.36476896,284.88988293
+National,,National,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,1912,5775,11831,10743,2906.8375463,438.05096864,342.1172496,350.08988927
+National,,National,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,1084,4750,6263,6262,2128.736714,494.50952579,384.33960402,396.35552291
+National,,National,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,5661,30584,70975,62448,3216.3009747,455.04276619,359.20334822,366.91753589
+National,,National,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,3279,24775,31368,31366,2018.7381985,474.23254049,372.25426613,385.69526173
+National,,National,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,3970,26670,37682,33094,905.80921713,73.951207473,58.759614405,59.493268139
+National,,National,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,3160,23083,32982,29179,1056.3539443,273.06131526,217.7292881,226.34705779
+National,,National,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,7317,103900,245653,203443,3314.079065,458.01219826,361.73005215,367.08651024
+National,,National,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,4527,91470,116037,116030,2140.960133,514.62528857,404.0480589,414.52259702
+National,,National,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,5434,93809,128990,114423,892.26405853,70.759552989,56.282871153,56.480049074
+National,,National,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,4433,86676,123061,109955,1046.4558305,271.10513144,216.1561064,222.68956111
+National,,National,64640,Destruction of peripheral nerve or branch,N,F,2477,10922,36809,15763,989.5541047,86.449759841,67.519757396,62.900043196
+National,,National,64640,Destruction of peripheral nerve or branch,N,O,2795,15828,50714,22904,720.87383326,169.71801948,133.27698505,120.73325019
+National,,National,77002,Fluoroscopic guidance for needle placement,N,F,14178,109699,132013,131950,175.42139357,27.561860802,21.324833236,21.428990705
+National,,National,77002,Fluoroscopic guidance for needle placement,N,O,10599,179986,415989,415002,321.33775602,108.97608514,84.626843931,84.601783557
+State,01,Alabama,64624,Destruction of nerve branches of knee using imaging guidance,N,F,38,135,198,197,938.85757576,215.12656566,167.45045455,186.90434343
+State,01,Alabama,64624,Destruction of nerve branches of knee using imaging guidance,N,O,21,51,71,71,693.34830986,381.77422535,294.72535211,330.97887324
+State,01,Alabama,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,12,35,39,39,1559.5589744,253.58794872,193.11205128,203.76974359
+State,01,Alabama,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,12,23,26,26,1178.2842308,505.64076923,397.03846154,433.51653846
+State,01,Alabama,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,51,202,325,297,1507.3430462,342.32341538,265.14347692,305.15366154
+State,01,Alabama,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,43,418,515,515,1465.5043883,469.15071845,367.33427184,434.2278835
+State,01,Alabama,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,40,179,300,207,443.67463333,70.019966667,55.296633333,60.743933333
+State,01,Alabama,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,43,394,563,482,727.98301954,264.3839254,210.66053286,245.90708703
+State,01,Alabama,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,79,1145,1810,1591,1819.4273149,352.5061326,277.39779558,314.29190055
+State,01,Alabama,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,58,1619,2017,2017,1725.7050273,518.83137333,408.31216163,468.15363907
+State,01,Alabama,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,66,1053,1702,1182,490.42588719,74.996621622,59.698578143,63.49673913
+State,01,Alabama,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,57,1549,2225,1919,845.52564494,268.21668315,213.74008989,242.27235955
+State,01,Alabama,64640,Destruction of peripheral nerve or branch,N,F,18,115,336,126,462.119375,71.417470238,56.425238095,53.879136905
+State,01,Alabama,64640,Destruction of peripheral nerve or branch,N,O,35,220,1000,456,408.68062,163.93501,129.52721,126.60067
+State,01,Alabama,77002,Fluoroscopic guidance for needle placement,N,F,248,1224,1407,1407,119.02522388,25.599509595,19.688862829,20.594875622
+State,01,Alabama,77002,Fluoroscopic guidance for needle placement,N,O,131,1765,2791,2791,320.37784665,100.55253314,77.450376209,87.603471874
+State,02,Alaska,64624,Destruction of nerve branches of knee using imaging guidance,N,O,6,31,49,49,5258.6734694,455.28346939,360.89469388,307.20938776
+State,02,Alaska,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,4,11,11,11,3195.5,646.60090909,490.08,418.45545455
+State,02,Alaska,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,10,30,60,52,4245.203,693.611,545.41283333,494.39083333
+State,02,Alaska,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,14,69,87,87,4582.6206897,499.92206897,395.13011494,337.31494253
+State,02,Alaska,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,3,12,13,13,2641.6153846,95.246923077,76.013076923,56.364615385
+State,02,Alaska,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,13,58,77,75,2398.3896104,274.06766234,219.48064935,194.37363636
+State,02,Alaska,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,14,83,182,140,5456.4527473,665.72752747,530.4893956,446.99049451
+State,02,Alaska,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,16,184,228,228,6788.5082895,591.58315789,465.77486842,394.18065789
+State,02,Alaska,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,7,38,54,43,2318.575,81.875,64.829074074,50.206296296
+State,02,Alaska,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,16,158,195,195,3439.8529231,309.99671795,246.76984615,214.91497436
+State,02,Alaska,64640,Destruction of peripheral nerve or branch,N,O,11,50,188,55,1221.6329787,166.26196809,132.19021277,95.34643617
+State,02,Alaska,77002,Fluoroscopic guidance for needle placement,N,F,34,248,273,273,210.36296703,33.153516484,25.726776557,20.631355311
+State,02,Alaska,77002,Fluoroscopic guidance for needle placement,N,O,61,684,841,841,764.22574316,128.11429251,98.182116528,85.572734839
+State,04,Arizona,64624,Destruction of nerve branches of knee using imaging guidance,N,F,108,289,569,546,2086.5697364,445.62439367,352.34319859,360.79377856
+State,04,Arizona,64624,Destruction of nerve branches of knee using imaging guidance,N,O,90,370,442,442,1202.6578054,386.42893665,302.02674208,311.67721719
+State,04,Arizona,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,62,170,326,290,2798.657362,467.16868098,363.34981595,370.00613497
+State,04,Arizona,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,53,209,271,271,1751.4756827,503.66479705,395.54594096,411.14298893
+State,04,Arizona,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,150,1277,3211,2854,3166.3498256,481.61677359,380.4033977,392.92002491
+State,04,Arizona,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,134,1792,2465,2465,1565.4514158,453.2711359,356.28757809,374.2539432
+State,04,Arizona,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,92,988,1274,1259,759.29427002,72.905141287,57.913296703,59.212629513
+State,04,Arizona,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,132,1686,2347,2315,760.40702599,267.61340435,212.40968044,223.13139753
+State,04,Arizona,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,173,3617,9430,7702,3305.0797094,485.53069141,383.67255461,393.63601273
+State,04,Arizona,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,156,5218,7090,7090,1727.6231551,508.45962482,399.53708039,416.93925106
+State,04,Arizona,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,112,2955,3685,3656,738.47687653,69.878355495,55.51495251,56.684453189
+State,04,Arizona,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,155,5059,6958,6867,791.91896953,277.32714429,220.59872665,230.77722765
+State,04,Arizona,64640,Destruction of peripheral nerve or branch,N,F,85,326,1359,733,2024.4866667,106.12732892,83.56915379,82.08285504
+State,04,Arizona,64640,Destruction of peripheral nerve or branch,N,O,102,737,2340,905,698.29779487,158.69031197,125.10964957,122.10694444
+State,04,Arizona,77002,Fluoroscopic guidance for needle placement,N,F,252,2004,2468,2468,249.49662885,26.040384927,20.057832253,20.506799028
+State,04,Arizona,77002,Fluoroscopic guidance for needle placement,N,O,347,8101,17798,17796,347.53923755,106.39577368,82.202863243,85.458990336
+State,05,Arkansas,64624,Destruction of nerve branches of knee using imaging guidance,N,F,54,214,434,407,1320.1694931,389.85230415,306.27654378,340.86610599
+State,05,Arkansas,64624,Destruction of nerve branches of knee using imaging guidance,N,O,20,67,87,87,807.65551724,318.02103448,246.88011494,283.8254023
+State,05,Arkansas,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,46,208,498,462,1442.9748193,511.8487751,400.67216867,438.67361446
+State,05,Arkansas,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,17,153,177,177,1474.7175141,541.65316384,422.01937853,475.13926554
+State,05,Arkansas,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,85,636,1518,1356,1840.4859354,434.20924242,341.94640316,379.73121871
+State,05,Arkansas,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,40,379,470,470,1434.7799149,447.14512766,349.71123404,398.95295745
+State,05,Arkansas,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,64,551,850,733,1393.5083294,69.704270588,55.509047059,59.873847059
+State,05,Arkansas,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,38,368,565,456,833.07063717,247.58614159,197.23412389,227.88235398
+State,05,Arkansas,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,91,2422,5931,4796,1983.1982499,439.02954308,347.03560108,385.21575282
+State,05,Arkansas,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,48,1458,1872,1872,1444.8958868,444.43755876,348.65632479,398.44145833
+State,05,Arkansas,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,70,2156,3276,2690,1393.3565079,66.044365079,52.596153846,56.596517094
+State,05,Arkansas,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,48,1431,2254,1836,887.54655723,225.0136291,179.54560337,209.46669033
+State,05,Arkansas,64640,Destruction of peripheral nerve or branch,N,F,38,204,677,303,556.20982275,86.625864106,66.43295421,65.152289513
+State,05,Arkansas,64640,Destruction of peripheral nerve or branch,N,O,26,221,757,243,373.16015852,103.89904888,79.628626156,73.542391017
+State,05,Arkansas,77002,Fluoroscopic guidance for needle placement,N,F,163,1270,1527,1526,179.83095612,25.318120498,19.752049771,21.221552063
+State,05,Arkansas,77002,Fluoroscopic guidance for needle placement,N,O,58,1366,1900,1898,215.06647368,85.657768421,65.788389474,77.132305263
+State,06,California,64624,Destruction of nerve branches of knee using imaging guidance,N,F,350,947,1771,1728,3584.1683456,510.0533258,402.16232637,336.69907962
+State,06,California,64624,Destruction of nerve branches of knee using imaging guidance,N,O,149,629,788,788,1912.080533,388.88139594,306.0890736,274.3707868
+State,06,California,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,210,670,1118,996,2882.6197764,504.95257603,393.02227191,331.64070662
+State,06,California,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,80,204,249,249,2770.2683133,500.84915663,387.38714859,348.66321285
+State,06,California,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,583,3036,7074,6070,4631.6453167,561.82813967,444.5868985,379.31540147
+State,06,California,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,203,1104,1406,1406,2148.0197084,504.74967283,396.38662162,365.84003556
+State,06,California,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,356,2397,2850,2831,1094.6191333,81.771168421,65.057077193,62.427280702
+State,06,California,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,185,956,1231,1224,1274.2407717,296.67043054,236.51317628,216.13250203
+State,06,California,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,783,9963,24550,19594,4461.2440754,575.56933442,455.45084684,384.14731487
+State,06,California,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,308,4426,5661,5661,1912.5874315,552.14089913,434.23276276,398.01302067
+State,06,California,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,509,8145,9484,9425,1097.6656748,78.483173766,62.49117461,59.508441586
+State,06,California,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,287,4002,5108,5091,1032.5722651,300.72235513,239.82662882,219.24496085
+State,06,California,64640,Destruction of peripheral nerve or branch,N,F,221,658,2224,927,1475.3825585,107.1807509,83.630166367,65.475233813
+State,06,California,64640,Destruction of peripheral nerve or branch,N,O,202,1210,4861,2571,574.10612631,199.8825468,158.34243366,122.13880066
+State,06,California,77002,Fluoroscopic guidance for needle placement,N,F,1020,7083,8363,8361,154.18661246,27.943147196,21.451772091,20.409996413
+State,06,California,77002,Fluoroscopic guidance for needle placement,N,O,834,10718,17959,17955,433.7723175,120.36652431,93.803876051,83.16894816
+State,08,Colorado,64624,Destruction of nerve branches of knee using imaging guidance,N,F,85,190,318,305,2984.1522956,378.83691824,298.61336478,301.30160377
+State,08,Colorado,64624,Destruction of nerve branches of knee using imaging guidance,N,O,34,120,148,148,1712.657973,445.87391892,354.28256757,340.87912162
+State,08,Colorado,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,63,166,303,272,3878.7660726,427.98993399,338.869967,342.4859736
+State,08,Colorado,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,21,144,204,204,1848.6833333,567.26857843,441.85039216,423.20534314
+State,08,Colorado,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,134,744,1783,1591,3207.5678912,476.06910824,375.75444195,381.04885586
+State,08,Colorado,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,47,412,524,523,2199.6378244,565.20610687,444.33217557,434.42398855
+State,08,Colorado,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,92,613,1031,784,738.08419011,73.546023278,58.566838021,58.530785645
+State,08,Colorado,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,44,376,521,479,1078.4317274,328.05095969,261.86527831,258.62190019
+State,08,Colorado,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,158,1944,4690,3774,3283.3294158,471.35966525,371.87055011,378.34497868
+State,08,Colorado,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,57,1123,1396,1396,2278.1470272,593.31949857,465.92919771,454.89040115
+State,08,Colorado,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,115,1676,2486,2005,705.27916331,73.57928399,58.607948512,58.442554304
+State,08,Colorado,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,56,1032,1376,1285,1010.3109956,321.6959593,256.83199128,251.66638081
+State,08,Colorado,64640,Destruction of peripheral nerve or branch,N,F,51,176,465,243,1060.5710108,93.594,73.337978495,67.173075269
+State,08,Colorado,64640,Destruction of peripheral nerve or branch,N,O,52,246,645,371,697.60088372,194.38362791,152.39235659,141.5604186
+State,08,Colorado,77002,Fluoroscopic guidance for needle placement,N,F,271,1440,1604,1602,142.28553616,28.43005611,22.142637157,21.799894015
+State,08,Colorado,77002,Fluoroscopic guidance for needle placement,N,O,200,1560,3385,3385,267.36974298,114.69685672,89.256827179,85.992073855
+State,09,Connecticut,64624,Destruction of nerve branches of knee using imaging guidance,N,F,27,228,361,357,3116.3348199,568.05443213,451.92135734,426.76448753
+State,09,Connecticut,64624,Destruction of nerve branches of knee using imaging guidance,N,O,20,59,72,72,1613.5422222,398.43236111,315.57291667,294.20625
+State,09,Connecticut,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,39,105,232,213,2946.9789655,531.95469828,418.40474138,405.76237069
+State,09,Connecticut,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,34,214,253,253,2502.7106719,553.87399209,437.95782609,416.17391304
+State,09,Connecticut,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,22,75,88,88,868.28568182,72.446022727,57.621704545,55.76625
+State,09,Connecticut,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,32,193,235,228,1291.7610638,328.96642553,262.28238298,244.17944681
+State,09,Connecticut,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,59,387,905,763,3665.4904199,523.23134807,414.54081768,390.81629834
+State,09,Connecticut,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,50,859,1049,1049,3163.9283127,595.97101049,468.82339371,434.68929457
+State,09,Connecticut,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,40,284,371,359,657.92576819,71.737924528,57.219326146,53.549865229
+State,09,Connecticut,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,51,817,999,981,1316.9016517,322.64227227,256.99386386,237.06802803
+State,09,Connecticut,64640,Destruction of peripheral nerve or branch,N,F,17,333,1145,485,1843.5229869,74.485965066,58.175965066,56.429772926
+State,09,Connecticut,64640,Destruction of peripheral nerve or branch,N,O,28,86,232,99,681.34396552,178.48284483,138.42456897,113.97939655
+State,09,Connecticut,77002,Fluoroscopic guidance for needle placement,N,F,133,693,776,775,155.44967784,27.717474227,21.760154639,20.657719072
+State,09,Connecticut,77002,Fluoroscopic guidance for needle placement,N,O,172,1828,2286,2286,348.46229221,114.78948381,89.805826772,83.082843395
+State,10,Delaware,64624,Destruction of nerve branches of knee using imaging guidance,N,F,11,26,40,38,1232.53925,325.487,259.59875,254.11225
+State,10,Delaware,64624,Destruction of nerve branches of knee using imaging guidance,N,O,12,187,196,196,1965.6122449,375.91239796,299.33178571,297.26607143
+State,10,Delaware,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,11,22,61,60,2474.4032787,525.64098361,415.92409836,408.22409836
+State,10,Delaware,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,27,156,356,327,2670.9760955,506.95511236,398.96435393,397.57603933
+State,10,Delaware,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,16,82,114,114,2234.6897368,470.74342105,367.39649123,361.49131579
+State,10,Delaware,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,18,114,166,133,937.93228916,70.919879518,56.129518072,56.120783133
+State,10,Delaware,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,16,75,111,105,1042.6537838,263.73054054,210.63162162,209.63612613
+State,10,Delaware,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,33,550,1480,1247,2830.1618311,511.51817568,404.36175,401.28012162
+State,10,Delaware,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,23,447,657,657,2594.8948097,462.76284627,362.97552511,362.64410959
+State,10,Delaware,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,23,415,580,515,1027.3715862,69.208465517,55.155051724,54.498517241
+State,10,Delaware,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,23,420,699,622,1118.0363948,245.24585122,195.74297568,199.56320458
+State,10,Delaware,64640,Destruction of peripheral nerve or branch,N,F,6,15,28,20,1537.9596429,103.18964286,82.401071429,80.226785714
+State,10,Delaware,64640,Destruction of peripheral nerve or branch,N,O,20,340,1024,371,1239.5833203,139.05873047,108.70222656,94.341894531
+State,10,Delaware,77002,Fluoroscopic guidance for needle placement,N,F,39,187,211,211,243.65876777,46.627156398,36.936729858,36.362369668
+State,10,Delaware,77002,Fluoroscopic guidance for needle placement,N,O,39,528,1012,1012,358.35897233,103.6745751,80.960494071,80.725899209
+State,11,District of Columbia,64624,Destruction of nerve branches of knee using imaging guidance,N,F,14,42,44,44,867.33227273,176.60136364,137.99363636,126.59977273
+State,11,District of Columbia,64624,Destruction of nerve branches of knee using imaging guidance,N,O,7,23,25,25,1397.6024,304.07,242.648,207.7508
+State,11,District of Columbia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,4,17,23,23,1562.4391304,193.09565217,154.08608696,151.73173913
+State,11,District of Columbia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,6,33,36,36,1577.1541667,575.52638889,451.98805556,389.70555556
+State,11,District of Columbia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,4,17,32,23,894.8303125,67.346875,54.00875,53.1571875
+State,11,District of Columbia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,6,26,34,28,929.02647059,342.21676471,272.93235294,231.94323529
+State,11,District of Columbia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,12,100,125,124,1760.44144,237.0656,188.78728,175.99856
+State,11,District of Columbia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,9,98,115,115,1773.1561739,652.96573913,514.57756522,451.24773913
+State,11,District of Columbia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,11,99,156,123,949.84634615,68.139551282,54.534358974,51.490512821
+State,11,District of Columbia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,9,76,98,83,1023.2869388,323.11612245,257.67408163,225.40306122
+State,11,District of Columbia,64640,Destruction of peripheral nerve or branch,N,O,4,26,92,33,799.76630435,198.66304348,156.32413043,104.96119565
+State,11,District of Columbia,77002,Fluoroscopic guidance for needle placement,N,F,36,271,287,286,117.36644599,31.640034843,24.826585366,22.588571429
+State,11,District of Columbia,77002,Fluoroscopic guidance for needle placement,N,O,14,74,82,82,284.57609756,125.90926829,98.351097561,86.704756098
+State,12,Florida,64624,Destruction of nerve branches of knee using imaging guidance,N,F,292,828,1421,1344,2490.0100704,386.85719916,305.30441239,320.53997185
+State,12,Florida,64624,Destruction of nerve branches of knee using imaging guidance,N,O,248,1086,1280,1280,1615.8839531,378.70091406,294.7823125,303.088375
+State,12,Florida,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,242,972,2236,1917,3305.9855411,454.50580501,357.98162791,376.23037567
+State,12,Florida,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,198,1307,1617,1617,2464.3154917,504.60283241,394.25936302,404.97460111
+State,12,Florida,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,492,2987,7822,6624,3946.152897,463.92540655,366.97977755,390.59456149
+State,12,Florida,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,419,3872,4903,4902,2359.7375688,493.51163165,388.6659433,403.59790536
+State,12,Florida,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,330,2695,4115,3372,909.91814581,77.041057108,61.371905225,59.812330498
+State,12,Florida,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,414,3737,5509,4722,1242.9971737,282.46655473,225.21999637,233.93686695
+State,12,Florida,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,591,8687,23700,18755,3971.0412392,470.79218945,372.86811561,394.93566835
+State,12,Florida,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,530,12834,16044,16043,2475.6266604,538.42984605,424.25600474,436.30264024
+State,12,Florida,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,410,8033,11845,9697,821.18681047,72.686047277,57.948194175,55.323414943
+State,12,Florida,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,521,12426,18225,15537,1222.8019665,284.70863045,227.03773169,233.72355665
+State,12,Florida,64640,Destruction of peripheral nerve or branch,N,F,158,446,1777,765,1262.3276027,86.902104671,68.533888576,69.696049522
+State,12,Florida,64640,Destruction of peripheral nerve or branch,N,O,272,1444,3600,1971,693.74238611,174.5437,137.45015556,133.87453056
+State,12,Florida,77002,Fluoroscopic guidance for needle placement,N,F,768,4356,4907,4904,216.55869166,28.580150805,22.434823721,22.187949868
+State,12,Florida,77002,Fluoroscopic guidance for needle placement,N,O,1056,23026,49612,49425,302.06210755,108.04196102,84.517119245,86.267268806
+State,13,Georgia,64624,Destruction of nerve branches of knee using imaging guidance,N,F,218,617,1252,1214,2381.1435543,427.5289377,336.57295527,351.95289936
+State,13,Georgia,64624,Destruction of nerve branches of knee using imaging guidance,N,O,42,162,196,196,1358.5556633,360.09260204,281.25765306,298.80852041
+State,13,Georgia,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,115,185,376,341,2903.8760904,461.88587766,357.52518617,371.18795213
+State,13,Georgia,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,24,65,75,75,1766.016,483.9664,380.93413333,406.77866667
+State,13,Georgia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,290,1924,5250,4490,3210.040821,479.12982095,378.52243238,401.30095429
+State,13,Georgia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,77,415,490,490,2245.186449,486.34567347,381.82908163,415.65359184
+State,13,Georgia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,184,1603,2545,2033,735.25005501,72.211642436,57.386475442,58.370499018
+State,13,Georgia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,74,373,482,444,1207.7223444,274.5856639,219.09580913,244.82375519
+State,13,Georgia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,346,6255,18221,14076,3507.9167087,480.20919763,379.39802151,400.48050656
+State,13,Georgia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,110,1589,1853,1853,2387.7545548,530.3398381,417.17365353,452.13462493
+State,13,Georgia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,227,5358,7866,6580,849.31232901,69.669213069,55.457546402,56.098690567
+State,13,Georgia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,109,1467,1824,1700,1143.3724123,276.76940241,220.53885965,243.71835526
+State,13,Georgia,64640,Destruction of peripheral nerve or branch,N,F,106,266,1167,533,1000.9752614,89.468620394,69.976683805,71.260959726
+State,13,Georgia,64640,Destruction of peripheral nerve or branch,N,O,58,320,750,459,629.20925333,214.9652,168.00581333,161.60061333
+State,13,Georgia,77002,Fluoroscopic guidance for needle placement,N,F,434,3168,3733,3733,219.79974551,25.942898473,19.988213233,20.55294937
+State,13,Georgia,77002,Fluoroscopic guidance for needle placement,N,O,377,5355,17887,17863,265.43885224,102.27418069,79.221641975,83.119865824
+State,15,Hawaii,64624,Destruction of nerve branches of knee using imaging guidance,N,F,8,17,21,21,1159.9814286,266.0147619,198.31666667,180.44380952
+State,15,Hawaii,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,7,12,19,19,1829.78,498.91631579,389.24894737,345.41
+State,15,Hawaii,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,6,19,22,22,1237.815,575.67727273,445.95909091,450.04454545
+State,15,Hawaii,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,5,17,20,20,567.138,349.916,278.798,266.286
+State,15,Hawaii,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,10,37,68,60,2405.7910294,540.64926471,427.05367647,406.85485294
+State,15,Hawaii,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,8,61,72,72,1094.7568056,567.69069444,438.65222222,428.96777778
+State,15,Hawaii,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,8,18,22,22,379.25772727,61.478181818,49.207727273,52.561818182
+State,15,Hawaii,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,6,51,60,60,446.9485,299.17416667,238.67566667,235.1535
+State,15,Hawaii,64640,Destruction of peripheral nerve or branch,N,F,7,23,48,25,558.40666667,93.603125,71.651666667,66.491666667
+State,15,Hawaii,64640,Destruction of peripheral nerve or branch,N,O,5,13,33,16,390.78272727,202.90454545,161.66484848,138.69272727
+State,15,Hawaii,77002,Fluoroscopic guidance for needle placement,N,F,26,89,94,94,111.26510638,26.239361702,18.957446809,19.298510638
+State,15,Hawaii,77002,Fluoroscopic guidance for needle placement,N,O,18,81,95,95,325.84231579,119.92705263,90.072421053,83.656526316
+State,16,Idaho,64624,Destruction of nerve branches of knee using imaging guidance,N,F,26,79,148,137,1147.0932432,372.57675676,293.91736486,311.77837838
+State,16,Idaho,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,20,41,69,64,1011.63,337.28985507,256.35695652,269.5273913
+State,16,Idaho,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,6,11,11,11,489.72727273,189.47,143.94272727,152.31909091
+State,16,Idaho,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,37,197,434,371,1658.4191014,443.49497696,351.08131336,381.52709677
+State,16,Idaho,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,12,122,158,158,1631.2929114,273.67544304,214.05025316,230.58708861
+State,16,Idaho,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,24,130,152,150,531.95092105,73.919868421,58.794802632,62.789473684
+State,16,Idaho,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,11,111,147,144,663.55877551,118.13619048,93.999047619,100.85517007
+State,16,Idaho,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,45,657,1606,1230,1774.3309215,455.10309465,359.39168742,386.19756538
+State,16,Idaho,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,17,411,533,533,2106.590788,322.70345216,253.28861163,274.74600375
+State,16,Idaho,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,35,529,590,588,575.61337288,74.082016949,59.030542373,62.803
+State,16,Idaho,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,15,394,516,508,895.68492248,137.71217054,109.90930233,119.07050388
+State,16,Idaho,64640,Destruction of peripheral nerve or branch,N,F,20,62,184,81,733.16554348,77.738152174,58.806684783,55.859347826
+State,16,Idaho,64640,Destruction of peripheral nerve or branch,N,O,11,32,70,43,492.67142857,114.83214286,91.783428571,91.839714286
+State,16,Idaho,77002,Fluoroscopic guidance for needle placement,N,F,127,937,1089,1089,162.5440955,23.860826446,18.159706152,19.292222222
+State,16,Idaho,77002,Fluoroscopic guidance for needle placement,N,O,81,819,1181,1181,251.08132091,73.769026249,55.821481795,61.899796782
+State,17,Illinois,64624,Destruction of nerve branches of knee using imaging guidance,N,F,162,684,1071,1060,1789.3851354,293.08601307,229.18615313,228.83496732
+State,17,Illinois,64624,Destruction of nerve branches of knee using imaging guidance,N,O,87,464,579,579,1602.824266,372.16556131,292.62594128,288.84060449
+State,17,Illinois,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,3,16,22,22,7277.2340909,502.52727273,387.69090909,366.05863636
+State,17,Illinois,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,192,921,1628,1481,2751.0976229,382.86273956,302.29253071,307.31071253
+State,17,Illinois,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,102,617,755,755,2414.4827815,493.18276821,388.45109934,388.64723179
+State,17,Illinois,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,145,765,995,936,1011.0872161,74.024261307,58.91239196,58.97440201
+State,17,Illinois,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,95,548,693,669,1159.5468398,281.16356421,224.06920635,224.41207792
+State,17,Illinois,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,264,3613,6335,5585,3034.5277758,389.67799369,307.356,309.48315864
+State,17,Illinois,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,132,2869,3625,3625,2491.8060469,521.11513379,410.45710345,409.22280828
+State,17,Illinois,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,212,3214,3995,3839,1067.7170163,75.419356696,59.955286608,58.376708385
+State,17,Illinois,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,130,2584,3356,3263,1192.6110191,273.95205304,218.33051847,218.48828665
+State,17,Illinois,64640,Destruction of peripheral nerve or branch,N,F,86,331,1000,425,1035.72273,82.46947,65.05,57.32165
+State,17,Illinois,64640,Destruction of peripheral nerve or branch,N,O,107,714,1946,944,996.44383864,177.61627955,138.93045221,131.15147996
+State,17,Illinois,77002,Fluoroscopic guidance for needle placement,N,F,670,4617,5615,5615,195.9780837,27.25234016,21.199923419,20.714336598
+State,17,Illinois,77002,Fluoroscopic guidance for needle placement,N,O,482,13408,46927,46896,397.37122083,115.28495877,89.872922198,87.319087519
+State,18,Indiana,64624,Destruction of nerve branches of knee using imaging guidance,N,F,129,339,560,553,2673.3430893,376.89019643,296.83158929,307.69051786
+State,18,Indiana,64624,Destruction of nerve branches of knee using imaging guidance,N,O,23,67,80,80,1219.1615,366.380375,281.534625,304.328375
+State,18,Indiana,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,28,42,62,56,3067.1764516,329.74548387,239.37967742,250.48129032
+State,18,Indiana,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,8,17,17,17,1274.9411765,528.47058824,399.13,430.07294118
+State,18,Indiana,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,160,745,1654,1509,3541.5843349,441.70417775,348.93690447,366.92416566
+State,18,Indiana,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,45,300,356,356,1764.9271348,459.34258427,361.61348315,410.64061798
+State,18,Indiana,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,108,652,885,828,1090.3736723,68.863525424,54.704564972,57.775299435
+State,18,Indiana,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,44,273,424,326,806.66603774,263.06915094,210.16290094,238.49860849
+State,18,Indiana,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,208,2716,6087,5250,3471.8539855,434.30097256,342.31639395,360.97576967
+State,18,Indiana,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,65,1108,1333,1333,1887.0977794,519.34791448,405.40013503,452.37729932
+State,18,Indiana,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,151,2421,3384,3107,933.322763,64.078289007,50.855614657,53.737697991
+State,18,Indiana,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,64,1049,1599,1265,925.08590994,267.57171357,213.42253283,237.75141964
+State,18,Indiana,64640,Destruction of peripheral nerve or branch,N,F,64,360,1064,430,874.02458647,79.04181391,62.406729323,65.648703008
+State,18,Indiana,64640,Destruction of peripheral nerve or branch,N,O,29,76,138,95,704.85913043,177.38789855,137.11202899,145.59123188
+State,18,Indiana,77002,Fluoroscopic guidance for needle placement,N,F,399,3675,4294,4292,177.55909641,25.176741966,19.329839311,20.345973451
+State,18,Indiana,77002,Fluoroscopic guidance for needle placement,N,O,145,2401,3879,3876,336.21279969,97.799030678,74.051974736,81.601152359
+State,19,Iowa,64624,Destruction of nerve branches of knee using imaging guidance,N,F,36,111,186,184,1531.6504301,323.92634409,251.74376344,270.60392473
+State,19,Iowa,64624,Destruction of nerve branches of knee using imaging guidance,N,O,11,33,37,37,1096.8378378,341.82459459,263.42864865,285.29108108
+State,19,Iowa,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,52,246,524,500,2373.7009733,416.68582061,326.4804771,357.94131679
+State,19,Iowa,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,16,92,105,105,1387.6809524,397.67819048,311.12971429,339.64733333
+State,19,Iowa,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,41,219,322,285,693.98177019,65.423043478,51.887515528,56.03052795
+State,19,Iowa,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,15,86,98,97,672.99489796,229.87336735,183.84744898,196.21908163
+State,19,Iowa,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,69,1072,2427,2072,2514.0443511,412.2287227,325.14620519,355.7881953
+State,19,Iowa,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,32,544,625,625,2308.373376,474.757968,370.630352,407.009248
+State,19,Iowa,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,58,1013,1501,1286,835.06506329,65.32526982,51.618494337,54.837208528
+State,19,Iowa,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,32,538,656,617,921.88786585,242.7654878,193.79641768,208.75381098
+State,19,Iowa,64640,Destruction of peripheral nerve or branch,N,F,29,193,599,221,574.06691152,76.88096828,59.286777963,54.229298831
+State,19,Iowa,64640,Destruction of peripheral nerve or branch,N,O,13,37,168,61,364.6627381,146.63922619,110.39482143,113.81595238
+State,19,Iowa,77002,Fluoroscopic guidance for needle placement,N,F,174,1570,1875,1875,164.01502933,25.315530667,19.320469333,20.340325333
+State,19,Iowa,77002,Fluoroscopic guidance for needle placement,N,O,117,2105,3246,3195,257.40417437,97.236833025,74.322818854,81.220782502
+State,20,Kansas,64624,Destruction of nerve branches of knee using imaging guidance,N,F,52,211,305,295,1703.6173443,265.44213115,206.40436066,219.31160656
+State,20,Kansas,64624,Destruction of nerve branches of knee using imaging guidance,N,O,9,108,125,125,671.18336,286.29784,227.48712,252.6904
+State,20,Kansas,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,9,15,19,18,3883.3763158,338.81473684,223.69315789,258.34105263
+State,20,Kansas,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,75,453,962,801,2436.0211642,408.94153846,322.95365904,347.55767152
+State,20,Kansas,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,10,80,88,88,1634.2954545,391.43488636,307.63090909,328.24306818
+State,20,Kansas,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,58,385,537,456,707.87001862,73.610707635,58.421992551,60.168715084
+State,20,Kansas,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,10,75,99,83,687.50343434,186.16262626,148.88888889,149.11434343
+State,20,Kansas,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,92,1478,3015,2570,2651.8875191,406.79102156,320.12261028,339.61782421
+State,20,Kansas,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,16,313,365,365,1606.3078904,408.94764384,318.75054795,346.08019178
+State,20,Kansas,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,73,1332,1753,1590,671.98195665,67.657239019,53.655031375,56.199612094
+State,20,Kansas,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,16,305,492,357,536.69609756,181.66229675,145.16865854,147.2471748
+State,20,Kansas,64640,Destruction of peripheral nerve or branch,N,F,30,164,348,215,812.14735632,93.52862069,72.194195402,71.830747126
+State,20,Kansas,64640,Destruction of peripheral nerve or branch,N,O,17,126,488,164,384.46114754,144.13135246,113.46864754,119.53315574
+State,20,Kansas,77002,Fluoroscopic guidance for needle placement,N,F,218,2362,2844,2843,104.78375176,25.26218706,19.48902602,20.448519691
+State,20,Kansas,77002,Fluoroscopic guidance for needle placement,N,O,72,1093,1923,1921,223.80270411,91.858465939,70.668434737,76.344674987
+State,21,Kentucky,64624,Destruction of nerve branches of knee using imaging guidance,N,F,38,117,194,190,1980.3550515,365.64747423,288.22701031,305.62010309
+State,21,Kentucky,64624,Destruction of nerve branches of knee using imaging guidance,N,O,45,241,293,293,1040.4077474,371.26532423,287.53389078,316.45774744
+State,21,Kentucky,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,11,13,18,18,2364.4372222,322.99611111,223.54277778,243.91444444
+State,21,Kentucky,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,14,43,51,51,1373.3947059,464.09431373,347.58784314,400.87176471
+State,21,Kentucky,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,51,308,731,594,2675.8505746,407.59206566,320.03205198,349.99396717
+State,21,Kentucky,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,59,706,840,840,1713.5332143,500.82460714,391.50629762,445.567
+State,21,Kentucky,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,40,275,358,354,579.10541899,76.184581006,60.579078212,64.944357542
+State,21,Kentucky,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,59,668,793,790,803.22257251,291.5170744,232.43749054,266.04110971
+State,21,Kentucky,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,68,1278,2533,2046,2505.626285,406.29611133,318.85650612,342.78858271
+State,21,Kentucky,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,73,2843,3387,3386,1689.5931001,545.99611751,426.06368468,484.62929141
+State,21,Kentucky,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,58,1180,1351,1339,521.9938342,76.225040711,60.598090303,63.978608438
+State,21,Kentucky,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,72,2752,3266,3262,840.50036436,295.11594611,235.32285364,269.93491427
+State,21,Kentucky,64640,Destruction of peripheral nerve or branch,N,F,28,176,506,194,567.52758893,78.806561265,59.300671937,48.72673913
+State,21,Kentucky,64640,Destruction of peripheral nerve or branch,N,O,42,195,495,253,636.59272727,169.21872727,131.03987879,127.27208081
+State,21,Kentucky,77002,Fluoroscopic guidance for needle placement,N,F,194,1944,2434,2434,114.74826212,24.835751849,18.990949055,19.979642564
+State,21,Kentucky,77002,Fluoroscopic guidance for needle placement,N,O,129,3898,14760,14757,225.77209214,102.75385501,80.172801491,89.698617209
+State,22,Louisiana,64624,Destruction of nerve branches of knee using imaging guidance,N,F,84,227,392,383,2287.183699,312.06147959,244.6582398,270.38602041
+State,22,Louisiana,64624,Destruction of nerve branches of knee using imaging guidance,N,O,26,252,307,307,983.01498371,343.68469055,266.18833876,292.82553746
+State,22,Louisiana,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,53,263,584,560,3514.5620548,410.90900685,324.47191781,363.48275685
+State,22,Louisiana,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,13,41,50,50,1573.3948,414.5788,322.1908,362.3998
+State,22,Louisiana,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,130,1062,2481,2257,3055.4028577,405.12659412,319.78693269,352.61428859
+State,22,Louisiana,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,31,233,318,318,1770.9765094,407.08028302,320.22644654,360.71647799
+State,22,Louisiana,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,97,940,1594,1270,1061.4553764,70.086882058,55.595595985,57.804335006
+State,22,Louisiana,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,30,218,344,298,683.75738372,235.08218023,187.85369186,210.57511628
+State,22,Louisiana,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,159,3110,7533,6549,3126.7091172,411.5716222,324.79508961,356.18278773
+State,22,Louisiana,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,46,880,1096,1096,1842.4962409,491.97653285,386.51311131,428.13732664
+State,22,Louisiana,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,123,2874,4874,3854,1004.5860484,65.360467788,51.962517439,53.761091506
+State,22,Louisiana,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,45,831,1159,1037,747.35795513,256.71375324,204.4446937,229.64772217
+State,22,Louisiana,64640,Destruction of peripheral nerve or branch,N,F,66,398,1518,575,798.59216074,80.571205534,63.75701581,63.290256917
+State,22,Louisiana,64640,Destruction of peripheral nerve or branch,N,O,44,349,1126,427,632.75178508,120.01240675,94.716634103,97.426136767
+State,22,Louisiana,77002,Fluoroscopic guidance for needle placement,N,F,242,1697,1925,1925,307.98304416,28.440846753,22.077080519,22.856254545
+State,22,Louisiana,77002,Fluoroscopic guidance for needle placement,N,O,97,1313,1878,1878,357.90532481,99.480537806,76.366826411,84.684339723
+State,23,Maine,64624,Destruction of nerve branches of knee using imaging guidance,N,F,6,54,64,64,396.875,151.97828125,107.60875,102.1353125
+State,23,Maine,64624,Destruction of nerve branches of knee using imaging guidance,N,O,12,42,48,48,599.26916667,228.30708333,170.75875,171.289375
+State,23,Maine,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,9,31,39,38,2078.4812821,306.3125641,240.81897436,248.62307692
+State,23,Maine,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,14,66,82,82,838.24268293,300.0045122,234.03329268,240.20817073
+State,23,Maine,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,8,27,29,29,1118.0413793,78.003103448,61.126551724,61.954482759
+State,23,Maine,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,13,56,73,71,352.5830137,155.19164384,124.12328767,128.32273973
+State,23,Maine,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,14,171,228,207,2571.6293421,320.88210526,253.15057018,268.01469298
+State,23,Maine,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,18,434,474,474,1269.3131224,391.22599156,306.74580169,319.24818565
+State,23,Maine,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,13,138,164,158,1123.3320732,67.649939024,54.156280488,55.38902439
+State,23,Maine,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,18,405,452,441,506.86922566,179.96893805,143.77044248,150.82780973
+State,23,Maine,64640,Destruction of peripheral nerve or branch,N,F,2,25,80,34,2021.67375,80.187875,64.1895,47.6565
+State,23,Maine,64640,Destruction of peripheral nerve or branch,N,O,14,41,163,52,489.33055215,115.72736196,91.324601227,80.336564417
+State,23,Maine,77002,Fluoroscopic guidance for needle placement,N,F,61,469,525,525,90.035980952,25.644438095,19.938342857,20.446038095
+State,23,Maine,77002,Fluoroscopic guidance for needle placement,N,O,49,592,1356,1356,225.06187316,88.354970501,69.267249263,68.968318584
+State,24,Maryland,64624,Destruction of nerve branches of knee using imaging guidance,N,F,137,507,1031,993,2220.1910572,480.21485936,379.76540252,384.48914646
+State,24,Maryland,64624,Destruction of nerve branches of knee using imaging guidance,N,O,36,102,112,112,1515.8416071,430.80133929,339.62026786,312.95714286
+State,24,Maryland,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,93,338,823,762,2412.2808505,495.98292831,390.87818955,402.64839611
+State,24,Maryland,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,24,42,48,48,1780.9264583,545.49208333,432.850625,417.25354167
+State,24,Maryland,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,181,1021,2549,2263,3022.8837309,504.90610043,399.77417811,412.01407219
+State,24,Maryland,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,52,209,258,258,1744.4350775,511.52286822,400.40341085,373.31186047
+State,24,Maryland,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,101,823,1361,1028,616.17800147,75.95803086,60.615995591,58.393350478
+State,24,Maryland,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,49,194,286,237,1147.5450699,299.68276224,238.53097902,224.38083916
+State,24,Maryland,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,219,4007,10969,9180,3133.3445063,504.84303856,399.93968639,408.45344152
+State,24,Maryland,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,87,946,1211,1211,1876.912692,544.27844756,430.03486375,407.76611891
+State,24,Maryland,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,129,3385,5592,4372,612.15441345,71.014488555,56.535243205,54.178544349
+State,24,Maryland,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,82,892,1381,1150,1074.5076322,293.4980449,233.91376539,221.61265749
+State,24,Maryland,64640,Destruction of peripheral nerve or branch,N,F,65,180,525,328,953.05607619,115.4295619,91.227942857,86.979085714
+State,24,Maryland,64640,Destruction of peripheral nerve or branch,N,O,49,448,1543,718,634.0128127,212.93270253,166.82607907,135.5284057
+State,24,Maryland,77002,Fluoroscopic guidance for needle placement,N,F,259,2756,3494,3493,283.67752147,55.946233543,43.622455638,41.071001717
+State,24,Maryland,77002,Fluoroscopic guidance for needle placement,N,O,218,2683,4198,4198,293.96895665,120.00031682,92.765862315,86.599151977
+State,25,Massachusetts,64624,Destruction of nerve branches of knee using imaging guidance,N,F,58,143,180,180,1069.7776667,206.86566667,160.80561111,153.52527778
+State,25,Massachusetts,64624,Destruction of nerve branches of knee using imaging guidance,N,O,55,199,256,253,1579.4715625,289.71886719,223.19699219,208.46871094
+State,25,Massachusetts,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,87,410,622,562,1750.0884566,359.16644695,282.24871383,276.44995177
+State,25,Massachusetts,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,74,466,546,546,1883.6064652,449.9331685,353.50842491,332.85884615
+State,25,Massachusetts,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,71,356,431,405,687.18946636,83.338793503,66.047587007,63.486148492
+State,25,Massachusetts,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,74,439,529,513,1213.9140832,253.34410208,202.02603025,188.1421172
+State,25,Massachusetts,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,139,2018,3184,2857,1922.7136338,377.31728015,297.42434045,289.21526696
+State,25,Massachusetts,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,112,2122,2505,2504,2154.0453772,494.91746906,387.70044711,361.4091018
+State,25,Massachusetts,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,124,1820,2259,2105,647.83160691,76.359765383,60.788384241,57.894541833
+State,25,Massachusetts,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,111,2008,2407,2360,1176.3597133,254.88560449,203.15409639,187.76263814
+State,25,Massachusetts,64640,Destruction of peripheral nerve or branch,N,F,53,150,370,178,759.95489189,90.938027027,71.514243243,59.971432432
+State,25,Massachusetts,64640,Destruction of peripheral nerve or branch,N,O,58,388,1299,457,1000.7701155,168.86429561,133.16307159,109.04133179
+State,25,Massachusetts,77002,Fluoroscopic guidance for needle placement,N,F,358,5111,6171,6157,119.82652893,27.963101604,21.74087344,20.669894669
+State,25,Massachusetts,77002,Fluoroscopic guidance for needle placement,N,O,188,4152,6983,6498,326.40013032,94.089789489,72.617511098,66.58632393
+State,26,Michigan,64624,Destruction of nerve branches of knee using imaging guidance,N,F,79,198,326,318,1790.4131595,350.4245092,276.98892638,292.69865031
+State,26,Michigan,64624,Destruction of nerve branches of knee using imaging guidance,N,O,78,196,244,242,1133.3928279,318.12172131,245.66434426,247.42233607
+State,26,Michigan,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,25,41,61,59,2455.5672131,313.32852459,233.6347541,243.22393443
+State,26,Michigan,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,32,63,74,74,1890.0205405,452.62135135,320.15351351,334.03202703
+State,26,Michigan,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,120,503,935,820,2312.9199144,390.34764706,306.94042781,326.64074866
+State,26,Michigan,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,140,858,1072,1072,1730.5785821,458.76875933,359.64426306,388.32982276
+State,26,Michigan,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,94,449,663,554,679.86812971,74.996168929,59.765957768,59.799502262
+State,26,Michigan,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,133,805,1167,1002,813.61967438,253.79168809,202.69890317,220.57983719
+State,26,Michigan,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,163,1534,2838,2345,2714.3359972,411.63949612,325.25854827,344.59617689
+State,26,Michigan,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,204,3185,3988,3987,1772.6156018,500.69600802,391.72614092,412.78227432
+State,26,Michigan,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,134,1338,1891,1564,750.37288736,73.540227393,58.596509783,57.066663141
+State,26,Michigan,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,202,3026,4323,3779,793.32817488,257.18725885,205.05536664,217.07233171
+State,26,Michigan,64640,Destruction of peripheral nerve or branch,N,F,55,195,804,332,674.25893035,85.41488806,67.222126866,68.416616915
+State,26,Michigan,64640,Destruction of peripheral nerve or branch,N,O,69,168,505,247,653.74934653,167.8010495,129.53538614,124.31415842
+State,26,Michigan,77002,Fluoroscopic guidance for needle placement,N,F,447,2738,3285,3284,138.8081309,25.638456621,19.748806697,19.863713851
+State,26,Michigan,77002,Fluoroscopic guidance for needle placement,N,O,287,3679,7269,7261,246.97885404,96.894729674,74.874765442,78.457885541
+State,27,Minnesota,64624,Destruction of nerve branches of knee using imaging guidance,N,F,89,283,515,493,2050.3072233,368.21333981,291.83396117,290.67434951
+State,27,Minnesota,64624,Destruction of nerve branches of knee using imaging guidance,N,O,18,43,48,48,1322.7291667,288.185,218.81041667,221.53791667
+State,27,Minnesota,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,133,749,1750,1610,2673.6614914,465.57792571,367.89504571,367.19907429
+State,27,Minnesota,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,25,113,153,153,1589.1937255,457.97281046,357.14163399,362.87117647
+State,27,Minnesota,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,96,639,844,818,777.29167062,69.216848341,55.090947867,57.172831754
+State,27,Minnesota,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,25,101,159,136,855.83081761,265.93974843,210.84603774,215.08830189
+State,27,Minnesota,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,144,2057,4422,3851,2883.0567119,447.44447987,353.53568521,352.56982813
+State,27,Minnesota,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,34,365,462,462,2129.8982684,523.18974026,411.15530303,420.22251082
+State,27,Minnesota,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,110,1853,2324,2263,782.80074441,64.447517212,51.433502582,53.095796041
+State,27,Minnesota,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,34,338,506,432,1003.0647233,272.72126482,217.34833992,222.36583004
+State,27,Minnesota,64640,Destruction of peripheral nerve or branch,N,F,58,179,465,277,1110.3255269,105.94447312,82.376752688,77.100451613
+State,27,Minnesota,64640,Destruction of peripheral nerve or branch,N,O,12,26,59,37,548.72,157.73169492,122.81152542,114.95508475
+State,27,Minnesota,77002,Fluoroscopic guidance for needle placement,N,F,438,3320,4015,4014,144.70465255,25.769845579,19.997760897,20.464520548
+State,27,Minnesota,77002,Fluoroscopic guidance for needle placement,N,O,212,2900,4371,4371,371.65026081,109.24139327,82.661859986,82.535245939
+State,28,Mississippi,64624,Destruction of nerve branches of knee using imaging guidance,N,F,46,272,531,506,1685.5476648,381.04613936,300.41600753,337.34677966
+State,28,Mississippi,64624,Destruction of nerve branches of knee using imaging guidance,N,O,17,94,107,107,812.78373832,309.6311215,237.42551402,270.15869159
+State,28,Mississippi,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,37,187,410,367,2386.8902195,420.03341463,331.08787805,367.09441463
+State,28,Mississippi,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,14,77,86,86,1013.6395349,331.48906977,254.97151163,280.26790698
+State,28,Mississippi,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,59,581,1318,1130,2470.7746737,417.8839909,328.93823976,378.41409712
+State,28,Mississippi,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,17,116,131,131,1236.7667939,411.05679389,316.75877863,357.00572519
+State,28,Mississippi,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,40,537,717,605,769.73655509,72.202733612,57.43930265,61.09264993
+State,28,Mississippi,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,16,99,130,113,574.79538462,230.29315385,183.51715385,211.53176923
+State,28,Mississippi,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,66,2137,5313,4236,2550.5585018,421.64624882,333.02992848,380.09600038
+State,28,Mississippi,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,31,728,790,790,1521.8356203,477.44475949,373.1315443,419.94986076
+State,28,Mississippi,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,47,2025,2757,2378,770.68661589,69.821886108,55.645023576,59.038258977
+State,28,Mississippi,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,31,698,784,753,904.53084184,234.61442602,186.91658163,214.575
+State,28,Mississippi,64640,Destruction of peripheral nerve or branch,N,F,28,173,591,241,940.92612521,81.301641286,62.645939086,58.539069374
+State,28,Mississippi,64640,Destruction of peripheral nerve or branch,N,O,23,526,2423,578,801.04747008,115.9116591,91.512872472,88.546306232
+State,28,Mississippi,77002,Fluoroscopic guidance for needle placement,N,F,132,1337,1553,1553,185.16547972,26.182949131,20.252086285,21.614977463
+State,28,Mississippi,77002,Fluoroscopic guidance for needle placement,N,O,84,845,1762,1760,200.41254257,75.418734393,58.475953462,67.231396141
+State,29,Missouri,64624,Destruction of nerve branches of knee using imaging guidance,N,F,77,430,596,584,1623.4099161,300.32244966,234.40959732,241.41221477
+State,29,Missouri,64624,Destruction of nerve branches of knee using imaging guidance,N,O,30,85,97,97,1140.4994845,339.49742268,265.53649485,282.51175258
+State,29,Missouri,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,14,19,31,28,2302.8687097,309.09645161,216.24032258,229.16741935
+State,29,Missouri,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,11,24,27,27,1240.572963,439.57,333.10777778,352.06962963
+State,29,Missouri,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,84,568,954,900,2422.6003564,348.44001048,271.77237945,283.90839623
+State,29,Missouri,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,34,363,473,473,1608.3061099,363.67809725,284.70463002,306.62790698
+State,29,Missouri,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,71,505,731,622,589.71607387,70.229316005,55.326839945,56.72253078
+State,29,Missouri,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,34,333,441,435,786.67310658,193.98773243,154.56646259,166.26319728
+State,29,Missouri,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,129,1940,2973,2744,2441.2760982,344.7927077,270.70625631,284.19599058
+State,29,Missouri,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,46,1236,1542,1542,1691.5856744,395.7163489,307.66202335,330.2570882
+State,29,Missouri,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,111,1795,2678,2115,543.77646378,67.709219567,53.806224795,52.843566094
+State,29,Missouri,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,45,1170,1509,1469,825.60328032,189.99889331,151.47287608,164.24127237
+State,29,Missouri,64640,Destruction of peripheral nerve or branch,N,F,57,473,1023,528,1084.1332649,81.164369501,63.681358749,62.162756598
+State,29,Missouri,64640,Destruction of peripheral nerve or branch,N,O,30,184,375,219,644.6152,161.96450667,122.62829333,131.15368
+State,29,Missouri,77002,Fluoroscopic guidance for needle placement,N,F,381,4240,5194,5185,172.34739507,26.140546785,20.162945707,20.535458221
+State,29,Missouri,77002,Fluoroscopic guidance for needle placement,N,O,163,2654,6429,6386,294.20904495,91.652176077,71.532865142,75.324633691
+State,30,Montana,64624,Destruction of nerve branches of knee using imaging guidance,N,F,14,37,53,52,1388.7354717,292.34245283,221.79226415,229.17584906
+State,30,Montana,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,9,28,35,33,1636.6274286,421.472,315.19457143,328.98885714
+State,30,Montana,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,27,126,244,216,1496.5284836,399.50606557,314.78602459,327.0422541
+State,30,Montana,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,2,12,17,17,1067.2352941,439.47294118,350.73294118,348.04
+State,30,Montana,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,17,72,86,86,521.07104651,76.083837209,60.735348837,61.009069767
+State,30,Montana,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,2,11,16,16,470.625,258.79625,206.55625,204.83
+State,30,Montana,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,36,646,1290,1051,1639.6753876,410.05006202,321.82295349,334.7609845
+State,30,Montana,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,3,40,51,51,1205.8235294,474.85215686,367.11039216,363.52901961
+State,30,Montana,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,27,429,521,517,533.42882917,72.139865643,57.199942418,57.011650672
+State,30,Montana,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,3,37,47,47,510,261.78085106,209.00297872,206.95553191
+State,30,Montana,64640,Destruction of peripheral nerve or branch,N,F,10,23,65,30,832.87692308,89.726307692,67.698461538,57.764923077
+State,30,Montana,77002,Fluoroscopic guidance for needle placement,N,F,75,670,805,805,87.817279503,26.74978882,20.696509317,20.512086957
+State,30,Montana,77002,Fluoroscopic guidance for needle placement,N,O,21,281,359,359,209.45197772,84.798328691,62.851671309,62.415793872
+State,31,Nebraska,64624,Destruction of nerve branches of knee using imaging guidance,N,F,35,231,303,302,1545.8251155,268.03910891,209.50676568,219.21993399
+State,31,Nebraska,64624,Destruction of nerve branches of knee using imaging guidance,N,O,18,46,61,61,1032.2377049,263.44213115,209.30721311,233.30491803
+State,31,Nebraska,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,10,19,41,37,3066.3212195,483.75195122,372.42682927,383.5
+State,31,Nebraska,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,6,18,21,21,1476.1966667,369.90333333,251.67238095,272.24666667
+State,31,Nebraska,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,40,179,395,366,2722.4955443,465.24941772,367.32534177,390.13967089
+State,31,Nebraska,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,17,185,238,238,1656.7016807,379.91747899,293.38109244,318.36210084
+State,31,Nebraska,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,26,148,236,184,930.29,64.880550847,51.50720339,55.678771186
+State,31,Nebraska,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,18,181,300,232,770.8136,218.25146667,174.03966667,188.60303333
+State,31,Nebraska,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,56,667,1607,1394,2582.0894337,456.56324829,360.56617922,379.73816428
+State,31,Nebraska,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,28,633,775,775,1998.3784516,432.40882581,335.19821935,366.14113548
+State,31,Nebraska,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,42,599,1038,761,752.46842004,59.321368015,47.235568401,49.767620424
+State,31,Nebraska,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,26,608,1083,748,750.87171745,195.91037858,156.47228994,168.47671283
+State,31,Nebraska,64640,Destruction of peripheral nerve or branch,N,F,34,262,1149,312,471.14262837,60.559608355,48.060939948,48.952193211
+State,31,Nebraska,64640,Destruction of peripheral nerve or branch,N,O,31,226,784,277,556.61034439,134.43459184,106.23243622,93.992780612
+State,31,Nebraska,77002,Fluoroscopic guidance for needle placement,N,F,113,1249,1411,1410,109.53305457,25.092225372,19.311594614,20.491587527
+State,31,Nebraska,77002,Fluoroscopic guidance for needle placement,N,O,62,1302,4263,4261,228.8978372,95.137246071,73.830469153,80.475277973
+State,32,Nevada,64624,Destruction of nerve branches of knee using imaging guidance,N,F,41,96,224,197,3304.4929018,511.96714286,405.88665179,345.00879464
+State,32,Nevada,64624,Destruction of nerve branches of knee using imaging guidance,N,O,18,55,64,64,2787.6282813,391.8125,301.85625,298.71078125
+State,32,Nevada,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,23,34,76,70,4454.2252632,458.93092105,365.08513158,361.14144737
+State,32,Nevada,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,12,59,81,81,3670.4822222,490.25259259,391.22506173,400.35135802
+State,32,Nevada,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,84,451,1249,1005,4853.2885428,536.60747798,425.39455564,411.05597278
+State,32,Nevada,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,29,266,324,324,3567.1458025,490.22373457,387.81182099,401.45243827
+State,32,Nevada,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,54,369,445,443,2122.6453483,80.083752809,63.650269663,64.919550562
+State,32,Nevada,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,28,234,289,285,2185.276782,295.10910035,235.8350519,239.97764706
+State,32,Nevada,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,101,1297,3715,2908,4713.7332894,543.07805653,430.60703634,413.39978197
+State,32,Nevada,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,35,774,964,964,3900.932334,553.8428527,435.97992739,440.26075726
+State,32,Nevada,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,69,1045,1265,1264,1962.0110909,73.548047431,58.466166008,59.466379447
+State,32,Nevada,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,33,733,916,909,2409.1397817,303.1410917,242.154869,245.11795852
+State,32,Nevada,64640,Destruction of peripheral nerve or branch,N,F,37,117,493,169,1235.6985801,87.930588235,67.845172414,63.281399594
+State,32,Nevada,64640,Destruction of peripheral nerve or branch,N,O,37,253,862,316,1400.2981555,161.08576566,127.45023202,111.50564965
+State,32,Nevada,77002,Fluoroscopic guidance for needle placement,N,F,88,429,525,525,232.87232381,26.24887619,20.532285714,20.758095238
+State,32,Nevada,77002,Fluoroscopic guidance for needle placement,N,O,115,1503,2101,2101,383.57366968,109.70159448,84.353755355,84.874716802
+State,33,New Hampshire,64624,Destruction of nerve branches of knee using imaging guidance,N,F,24,129,180,180,1559.7435,254.86461111,195.76627778,197.03994444
+State,33,New Hampshire,64624,Destruction of nerve branches of knee using imaging guidance,N,O,10,31,40,40,1343.443,422.7515,333.00975,317.9675
+State,33,New Hampshire,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,37,155,256,247,1870.3714063,375.70324219,297.5078125,305.24078125
+State,33,New Hampshire,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,13,122,155,155,2544.299871,491.71690323,388.36625806,395.37419355
+State,33,New Hampshire,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,25,122,151,150,647.76039735,69.421258278,55.404238411,55.798940397
+State,33,New Hampshire,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,12,106,135,134,1269.4964444,305.37140741,243.81474074,242.92133333
+State,33,New Hampshire,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,47,830,1523,1421,2227.656914,426.8184176,335.5867564,343.75397899
+State,33,New Hampshire,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,18,406,513,513,2945.5635867,567.47545809,449.56417154,446.15736842
+State,33,New Hampshire,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,37,724,874,864,679.75385584,70.246979405,55.980263158,55.977254005
+State,33,New Hampshire,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,18,381,485,482,1359.8837113,316.00235052,252.1725567,248.65878351
+State,33,New Hampshire,64640,Destruction of peripheral nerve or branch,N,F,13,23,56,26,432.13678571,85.614464286,68.129285714,63.43375
+State,33,New Hampshire,64640,Destruction of peripheral nerve or branch,N,O,13,296,1378,316,635.04309144,109.35301887,85.913613933,70.144992743
+State,33,New Hampshire,77002,Fluoroscopic guidance for needle placement,N,F,122,1451,1811,1810,192.67764771,25.644936499,20.024290447,19.953064605
+State,33,New Hampshire,77002,Fluoroscopic guidance for needle placement,N,O,95,1589,2363,2356,432.38388489,105.5918959,79.605239103,77.559665679
+State,34,New Jersey,64624,Destruction of nerve branches of knee using imaging guidance,N,F,143,338,631,605,9353.8035975,487.86690967,386.68767036,363.5648019
+State,34,New Jersey,64624,Destruction of nerve branches of knee using imaging guidance,N,O,45,167,218,218,4963.8616514,427.89151376,337.66665138,296.66073394
+State,34,New Jersey,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,68,134,277,247,9266.8495668,541.15032491,426.64400722,405.62783394
+State,34,New Jersey,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,23,57,61,61,5843.3560656,595.02196721,462.40688525,406.5847541
+State,34,New Jersey,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,257,838,1810,1523,6313.1008619,532.32423757,422.04369613,408.71499448
+State,34,New Jersey,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,60,301,367,367,5455.4526703,523.79771117,412.60771117,373.16708447
+State,34,New Jersey,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,165,611,816,706,3968.5551593,79.714105392,63.51995098,60.784007353
+State,34,New Jersey,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,58,292,458,356,3966.6921179,308.97229258,246.68622271,222.66334061
+State,34,New Jersey,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,363,2809,6766,5360,6931.4995522,537.70672776,425.5688457,407.59468371
+State,34,New Jersey,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,106,1531,1901,1901,6453.6316412,552.23109942,435.91012625,390.83513414
+State,34,New Jersey,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,248,2198,2859,2571,4188.2612942,75.504183281,60.092542847,56.604564533
+State,34,New Jersey,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,104,1446,2232,1799,4042.8647088,293.65154122,234.21051523,208.83761649
+State,34,New Jersey,64640,Destruction of peripheral nerve or branch,N,F,73,130,388,190,4912.2176289,111.92742268,87.416417526,73.787551546
+State,34,New Jersey,64640,Destruction of peripheral nerve or branch,N,O,65,245,733,349,799.80530696,209.23526603,164.50346521,131.89405184
+State,34,New Jersey,77002,Fluoroscopic guidance for needle placement,N,F,295,1459,1629,1628,333.03084101,38.667882136,30.208453039,28.032252916
+State,34,New Jersey,77002,Fluoroscopic guidance for needle placement,N,O,302,4973,14833,14833,440.13958471,126.6714461,99.359708083,88.251038226
+State,35,New Mexico,64624,Destruction of nerve branches of knee using imaging guidance,N,F,16,38,53,52,1698.2630189,341.40433962,269.88849057,282.21528302
+State,35,New Mexico,64624,Destruction of nerve branches of knee using imaging guidance,N,O,17,58,69,69,1044.9655072,372.40275362,292.30202899,314.60028986
+State,35,New Mexico,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,15,98,168,159,1969.825,403.61369048,319.49755952,332.85380952
+State,35,New Mexico,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,13,71,78,78,1618.9492308,521.88602564,413.81038462,443.02269231
+State,35,New Mexico,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,28,212,404,399,2437.2039356,411.84613861,323.62282178,339.89507426
+State,35,New Mexico,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,27,203,258,258,1425.453062,435.24465116,340.44027132,380.09263566
+State,35,New Mexico,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,24,200,332,252,746.94915663,69.854728916,55.278524096,56.238493976
+State,35,New Mexico,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,26,192,277,244,797.86851986,245.93407942,196.12036101,220.17393502
+State,35,New Mexico,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,33,636,1369,1190,3182.1389043,434.62802776,342.44989043,359.0568298
+State,35,New Mexico,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,34,712,905,905,1705.7213812,475.53351381,371.87646409,407.08539227
+State,35,New Mexico,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,29,582,927,721,650.40466019,66.608597627,52.768759439,53.81360302
+State,35,New Mexico,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,33,678,969,864,879.74675955,251.96175439,200.85553148,220.78745098
+State,35,New Mexico,64640,Destruction of peripheral nerve or branch,N,F,9,36,85,47,683.04094118,95.973058824,69.262117647,66.214352941
+State,35,New Mexico,64640,Destruction of peripheral nerve or branch,N,O,23,115,337,141,754.34851632,171.39869436,134.51543027,137.31810089
+State,35,New Mexico,77002,Fluoroscopic guidance for needle placement,N,F,77,382,438,438,154.86748858,26.155182648,20.107990868,20.6593379
+State,35,New Mexico,77002,Fluoroscopic guidance for needle placement,N,O,72,696,1171,1170,259.26391119,97.136327925,74.968095645,81.74736123
+State,36,New York,64624,Destruction of nerve branches of knee using imaging guidance,N,F,159,533,908,886,2552.8722137,412.69498899,325.62389868,299.62704846
+State,36,New York,64624,Destruction of nerve branches of knee using imaging guidance,N,O,148,511,652,650,1665.8688804,441.61343558,348.99400307,299.90634969
+State,36,New York,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,8,29,33,33,939.82515152,215.02757576,168.78636364,159.24272727
+State,36,New York,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,198,872,1746,1643,2880.8056987,450.73541237,355.26806987,342.1258362
+State,36,New York,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,226,1105,1383,1383,2226.107744,574.63723066,455.72643529,396.77127983
+State,36,New York,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,151,748,976,943,879.65847336,78.988053279,62.898545082,58.811506148
+State,36,New York,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,213,1030,1332,1293,1212.0657658,338.69717718,270.14188438,234.03553303
+State,36,New York,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,307,3382,7012,5955,3070.2652025,463.21984313,366.0705348,347.71332715
+State,36,New York,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,346,4805,6121,6120,2444.2762065,591.76626858,467.62847411,406.21846104
+State,36,New York,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,252,3005,3689,3609,1000.101949,77.475828138,61.734654378,57.215939279
+State,36,New York,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,333,4523,5835,5736,1314.8479743,323.14643702,257.47895801,222.23979263
+State,36,New York,64640,Destruction of peripheral nerve or branch,N,F,98,424,1440,703,993.93684722,95.552777778,75.199777778,67.261541667
+State,36,New York,64640,Destruction of peripheral nerve or branch,N,O,204,989,2910,1537,720.08335052,212.35848797,166.52902749,135.24519244
+State,36,New York,77002,Fluoroscopic guidance for needle placement,N,F,464,3632,4154,4153,186.13267212,28.915293693,22.528394319,21.504475205
+State,36,New York,77002,Fluoroscopic guidance for needle placement,N,O,565,11805,33011,33002,267.13234073,130.53006149,102.64986671,88.7561634
+State,37,North Carolina,64624,Destruction of nerve branches of knee using imaging guidance,N,F,75,284,387,381,1237.952739,189.11710594,148.1978553,158.2279845
+State,37,North Carolina,64624,Destruction of nerve branches of knee using imaging guidance,N,O,107,540,653,653,1163.6532312,345.56419602,269.99159265,284.61404288
+State,37,North Carolina,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,35,126,167,167,1058.8237725,213.91694611,163.94856287,171.07646707
+State,37,North Carolina,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,53,162,208,207,1569.0101923,479.44548077,368.70504808,392.02932692
+State,37,North Carolina,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,97,423,671,638,2061.251699,313.10457526,244.55923994,259.24210134
+State,37,North Carolina,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,145,1051,1319,1319,1692.0447915,464.27453374,364.15225929,393.63423048
+State,37,North Carolina,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,81,360,488,450,941.97571721,68.366168033,53.916639344,55.986065574
+State,37,North Carolina,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,139,967,1409,1211,854.1435983,262.25081618,209.4720511,225.39902058
+State,37,North Carolina,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,128,1755,2861,2597,2490.6182593,319.92403705,251.11644879,264.56543167
+State,37,North Carolina,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,203,4463,5661,5661,1751.0262374,503.89410175,394.46095213,420.04884473
+State,37,North Carolina,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,113,1600,2250,2017,1181.6380356,66.48432,52.507208889,54.377071111
+State,37,North Carolina,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,201,4200,6354,5347,791.86963645,258.02963488,206.03029273,217.22427133
+State,37,North Carolina,64640,Destruction of peripheral nerve or branch,N,F,38,105,229,137,706.5741048,93.571877729,73.863537118,72.502620087
+State,37,North Carolina,64640,Destruction of peripheral nerve or branch,N,O,97,473,1132,685,644.47931979,196.28159011,154.33076855,151.12696996
+State,37,North Carolina,77002,Fluoroscopic guidance for needle placement,N,F,440,3212,3897,3897,187.31965615,25.821082884,20.136653836,20.755632538
+State,37,North Carolina,77002,Fluoroscopic guidance for needle placement,N,O,453,9665,18900,18899,250.39617302,105.42010635,80.295577249,86.053077249
+State,38,North Dakota,64624,Destruction of nerve branches of knee using imaging guidance,N,F,10,24,33,33,1390.6424242,229.79060606,174.2230303,183.16454545
+State,38,North Dakota,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,7,20,26,26,1764.7307692,337.99461538,269.72307692,289.63153846
+State,38,North Dakota,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,18,89,156,156,1898.1871795,370.82237179,290.2675641,337.53032051
+State,38,North Dakota,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,15,72,95,93,773.88947368,73.386315789,57.668,60.354736842
+State,38,North Dakota,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,19,321,498,498,2049.8805221,412.60548193,324.02668675,351.26052209
+State,38,North Dakota,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,3,63,101,101,1020.120396,342.28524752,268.5419802,269.18118812
+State,38,North Dakota,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,15,264,321,315,869.12928349,71.55482866,56.975140187,58.538971963
+State,38,North Dakota,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,3,53,86,86,499.3227907,172.21046512,137.65976744,137.25302326
+State,38,North Dakota,64640,Destruction of peripheral nerve or branch,N,F,4,23,88,25,770.63636364,75.160227273,60.105568182,59.7
+State,38,North Dakota,77002,Fluoroscopic guidance for needle placement,N,F,59,660,810,809,97.939654321,25.941061728,19.462777778,19.913234568
+State,38,North Dakota,77002,Fluoroscopic guidance for needle placement,N,O,8,203,280,279,264.31146429,95.108285714,71.919142857,73.369464286
+State,39,Ohio,64624,Destruction of nerve branches of knee using imaging guidance,N,F,155,512,762,752,1218.1683858,263.58044619,206.89259843,218.56914698
+State,39,Ohio,64624,Destruction of nerve branches of knee using imaging guidance,N,O,85,306,355,355,793.0088169,273.14270423,211.05878873,221.87929577
+State,39,Ohio,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,77,220,316,303,1310.497057,288.01325949,201.83686709,209.30848101
+State,39,Ohio,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,33,139,180,180,1190.2148333,450.96333333,348.03011111,362.80216667
+State,39,Ohio,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,194,1109,1993,1862,1679.8119619,352.00595585,275.58591069,291.58055193
+State,39,Ohio,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,114,571,751,751,1054.99253,378.83683089,297.12296937,323.28853529
+State,39,Ohio,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,151,993,1267,1247,488.39939227,71.914135754,56.682770324,58.439321231
+State,39,Ohio,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,108,531,703,688,520.00880512,211.06714083,168.06163585,184.73176387
+State,39,Ohio,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,264,4336,7844,6917,1967.6174375,374.30308261,294.87076237,310.14191101
+State,39,Ohio,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,166,2400,3037,3037,1327.9912776,430.02593019,335.94385578,359.04291406
+State,39,Ohio,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,221,3960,4845,4784,517.48518679,71.423244582,56.786037152,58.173244582
+State,39,Ohio,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,165,2235,2882,2834,577.94615545,214.84672797,170.97672103,183.38770645
+State,39,Ohio,64640,Destruction of peripheral nerve or branch,N,F,90,385,715,511,674.05509091,104.86205594,81.554993007,80.085090909
+State,39,Ohio,64640,Destruction of peripheral nerve or branch,N,O,71,378,1551,712,308.40559639,122.16259832,93.642546744,96.219961315
+State,39,Ohio,77002,Fluoroscopic guidance for needle placement,N,F,668,4868,5822,5817,164.78868258,26.008124356,20.083964273,20.526250429
+State,39,Ohio,77002,Fluoroscopic guidance for needle placement,N,O,252,4057,11120,11117,226.86847752,96.56484982,75.180857014,81.262407374
+State,40,Oklahoma,64624,Destruction of nerve branches of knee using imaging guidance,N,F,55,467,542,540,1073.5803137,160.61800738,124.23940959,131.01669742
+State,40,Oklahoma,64624,Destruction of nerve branches of knee using imaging guidance,N,O,38,200,250,250,884.19928,364.53468,284.86644,318.02664
+State,40,Oklahoma,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,33,170,244,242,978.63790984,252.7547541,190.94356557,203.6082377
+State,40,Oklahoma,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,34,285,325,325,1321.7195385,536.95738462,420.98043077,466.67292308
+State,40,Oklahoma,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,57,433,677,644,1384.9233973,281.47983752,218.23483013,225.52710487
+State,40,Oklahoma,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,46,824,1027,1027,1726.7266699,532.04821811,414.62790652,460.79591042
+State,40,Oklahoma,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,51,399,634,522,597.55268139,70.9920347,55.975899054,58.605615142
+State,40,Oklahoma,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,45,802,1253,994,735.55741421,302.596249,240.94281724,270.33736632
+State,40,Oklahoma,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,76,1439,2061,1927,1531.1921446,303.05360019,236.12305677,247.86704512
+State,40,Oklahoma,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,61,2579,3236,3236,1544.4856922,549.98524104,430.19909147,480.7331026
+State,40,Oklahoma,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,70,1338,1971,1589,562.04459665,70.640319635,55.92587519,58.444292237
+State,40,Oklahoma,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,61,2518,4035,3167,670.97014126,288.81307559,230.25453779,260.83777695
+State,40,Oklahoma,64640,Destruction of peripheral nerve or branch,N,F,40,924,3375,1006,424.96222815,65.590654815,50.99114963,50.327528889
+State,40,Oklahoma,64640,Destruction of peripheral nerve or branch,N,O,73,319,848,449,584.9421934,179.47659198,140.52732311,143.84261792
+State,40,Oklahoma,77002,Fluoroscopic guidance for needle placement,N,F,223,2391,2820,2820,135.10516312,25.417932624,19.634808511,20.47222695
+State,40,Oklahoma,77002,Fluoroscopic guidance for needle placement,N,O,99,1338,2692,2692,223.29656761,97.669765973,75.571493314,84.623235513
+State,41,Oregon,64624,Destruction of nerve branches of knee using imaging guidance,N,F,50,182,387,362,1957.1706202,486.94033592,383.88697674,369.79764858
+State,41,Oregon,64624,Destruction of nerve branches of knee using imaging guidance,N,O,41,136,157,157,1257.059172,327.78031847,254.47751592,251.91140127
+State,41,Oregon,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,20,41,96,80,1994.8802083,510.5696875,389.05291667,374.72625
+State,41,Oregon,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,21,59,65,65,1714.1029231,485.46276923,376.066,378.40723077
+State,41,Oregon,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,68,456,1196,988,2448.8987625,530.17140468,419.33752508,405.28558528
+State,41,Oregon,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,41,274,311,311,1660.631865,503.69864952,390.02649518,397.48501608
+State,41,Oregon,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,43,336,405,403,746.82520988,74.299185185,58.668271605,60.172567901
+State,41,Oregon,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,40,223,248,248,983.35080645,297.04754032,236.92173387,240.64370968
+State,41,Oregon,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,82,1282,3698,2775,2580.4780557,534.55512169,423.53548405,407.67840995
+State,41,Oregon,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,52,827,919,919,1854.330272,536.64511425,417.28933624,430.68053319
+State,41,Oregon,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,51,1031,1203,1198,765.45899418,72.728711554,57.993092269,59.917082294
+State,41,Oregon,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,50,752,835,832,983.22760479,280.38873054,223.99553293,233.92609581
+State,41,Oregon,64640,Destruction of peripheral nerve or branch,N,F,28,87,245,174,741.05722449,119.974,94.876408163,92.025959184
+State,41,Oregon,64640,Destruction of peripheral nerve or branch,N,O,34,212,874,238,674.14708238,141.70465675,112.13058352,104.07141876
+State,41,Oregon,77002,Fluoroscopic guidance for needle placement,N,F,180,1193,1344,1344,162.72377232,26.188809524,20.084203869,20.16625744
+State,41,Oregon,77002,Fluoroscopic guidance for needle placement,N,O,162,1926,2505,2504,313.78665469,108.02972854,82.195812375,84.557205589
+State,42,Pennsylvania,64624,Destruction of nerve branches of knee using imaging guidance,N,F,148,448,667,652,1209.805922,270.441994,210.92356822,228.71565217
+State,42,Pennsylvania,64624,Destruction of nerve branches of knee using imaging guidance,N,O,69,227,261,261,1149.4119157,314.05831418,244.78716475,245.52291188
+State,42,Pennsylvania,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,93,226,436,395,2431.9004358,418.46548165,326.81598624,336.79566514
+State,42,Pennsylvania,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,39,119,155,155,1304.2327097,416.35535484,324.28548387,330.23683871
+State,42,Pennsylvania,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,243,902,1779,1634,2105.1145981,434.08845419,341.95128162,355.52
+State,42,Pennsylvania,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,109,651,780,780,1465.9331026,457.12883333,356.20826923,357.67657692
+State,42,Pennsylvania,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,173,784,1082,929,604.93725508,71.275878004,56.684020333,57.225961183
+State,42,Pennsylvania,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,108,615,860,732,880.29618605,258.52434884,206.27716279,208.22727907
+State,42,Pennsylvania,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,324,3827,8137,6933,2423.818105,429.19273934,337.45076687,348.25027651
+State,42,Pennsylvania,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,166,2643,3376,3376,1641.7137589,472.06360486,370.03570498,369.73475711
+State,42,Pennsylvania,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,252,3332,4695,4109,586.49376358,69.647974441,55.202227902,54.775804047
+State,42,Pennsylvania,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,162,2502,3721,3206,863.08968557,243.50981457,193.96949745,195.36125773
+State,42,Pennsylvania,64640,Destruction of peripheral nerve or branch,N,F,93,585,2850,766,437.44409123,77.635466667,59.739287719,47.616617544
+State,42,Pennsylvania,64640,Destruction of peripheral nerve or branch,N,O,130,579,2088,789,651.99027778,150.93452586,117.2700431,106.17875
+State,42,Pennsylvania,77002,Fluoroscopic guidance for needle placement,N,F,694,5238,6117,6115,135.58957005,27.415447115,20.970717672,20.944871669
+State,42,Pennsylvania,77002,Fluoroscopic guidance for needle placement,N,O,345,5115,9124,9124,349.39068281,111.59706817,86.760743095,83.789743534
+State,44,Rhode Island,64624,Destruction of nerve branches of knee using imaging guidance,N,F,8,102,132,132,1779.7575758,280.21704545,223.50962121,215.30977273
+State,44,Rhode Island,64624,Destruction of nerve branches of knee using imaging guidance,N,O,3,14,14,14,2000,402.48,320.68,309.25
+State,44,Rhode Island,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,11,44,85,80,2302.3647059,398.62894118,314.25458824,309.95941176
+State,44,Rhode Island,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,2,13,15,15,2281,542.908,432.56,417.642
+State,44,Rhode Island,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,8,34,45,45,967.06666667,70.863333333,55.931333333,54.760222222
+State,44,Rhode Island,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,2,13,15,15,1118.6,320.352,255.24,245.804
+State,44,Rhode Island,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,16,233,422,352,3115.6848341,435.00191943,343.19917062,339.23274882
+State,44,Rhode Island,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,8,88,93,93,2369.5268817,539.1655914,423.54387097,431.15924731
+State,44,Rhode Island,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,13,183,196,191,908.82653061,78.815612245,62.793367347,61.447704082
+State,44,Rhode Island,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,8,64,68,67,1054.1397059,296.02588235,235.92470588,242.53529412
+State,44,Rhode Island,64640,Destruction of peripheral nerve or branch,N,F,9,92,175,98,972.12,67.400685714,51.756914286,48.0184
+State,44,Rhode Island,64640,Destruction of peripheral nerve or branch,N,O,7,38,102,46,554.81372549,151.50068627,120.70735294,100.01254902
+State,44,Rhode Island,77002,Fluoroscopic guidance for needle placement,N,F,45,459,517,514,110.59481625,27.279245648,21.160444874,20.406208897
+State,44,Rhode Island,77002,Fluoroscopic guidance for needle placement,N,O,23,218,270,270,319.67051852,113.3607037,88.383666667,84.393814815
+State,45,South Carolina,64624,Destruction of nerve branches of knee using imaging guidance,N,F,48,229,393,381,1466.4633588,352.87394402,276.59750636,297.68697201
+State,45,South Carolina,64624,Destruction of nerve branches of knee using imaging guidance,N,O,52,263,327,327,1862.0422324,358.20489297,277.64697248,302.80746177
+State,45,South Carolina,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,29,63,126,112,2573.1639683,437.80952381,343.2352381,363.62920635
+State,45,South Carolina,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,28,123,146,146,3203.350274,466.12260274,357.86589041,386.87068493
+State,45,South Carolina,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,56,323,681,623,1943.9780617,414.37298091,327.25045521,355.96886931
+State,45,South Carolina,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,68,699,887,887,1899.4002593,419.39596392,328.36889515,361.98366404
+State,45,South Carolina,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,43,276,397,332,722.61967254,66.354231738,52.386876574,55.075465995
+State,45,South Carolina,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,67,634,1011,802,1132.0113155,241.14170129,192.20212661,214.0532542
+State,45,South Carolina,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,71,1420,3326,2761,2424.6917709,425.67319302,335.24392063,357.82012327
+State,45,South Carolina,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,86,2951,3841,3841,1749.2980916,467.06165842,364.75219214,401.16264514
+State,45,South Carolina,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,60,1320,1871,1622,675.58231427,65.971459113,52.194195617,54.490336718
+State,45,South Carolina,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,88,2801,4447,3665,939.85337306,245.890434,195.7392242,216.68150438
+State,45,South Carolina,64640,Destruction of peripheral nerve or branch,N,F,28,143,590,209,1201.9836949,83.760610169,65.617711864,66.753372881
+State,45,South Carolina,64640,Destruction of peripheral nerve or branch,N,O,82,536,1308,666,605.01468654,190.79656728,148.97224771,143.32530581
+State,45,South Carolina,77002,Fluoroscopic guidance for needle placement,N,F,189,1399,1589,1589,195.88580239,24.697696665,19.219137823,20.030302077
+State,45,South Carolina,77002,Fluoroscopic guidance for needle placement,N,O,187,5830,13499,13497,257.54381806,100.00865175,76.504887769,84.327097563
+State,46,South Dakota,64624,Destruction of nerve branches of knee using imaging guidance,N,F,14,34,41,41,1131.8326829,240.72707317,191.98414634,204.10317073
+State,46,South Dakota,64624,Destruction of nerve branches of knee using imaging guidance,N,O,2,19,22,22,513.45045455,391.76772727,305.905,304.95090909
+State,46,South Dakota,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,9,30,32,31,459.82125,266.140625,190.5465625,198.5740625
+State,46,South Dakota,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,19,181,201,199,906.68412935,255.04124378,196.16014925,204.76557214
+State,46,South Dakota,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,1,15,27,27,595.41666667,423.6537037,332.70777778,344.7
+State,46,South Dakota,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,18,151,161,160,352.87304348,84.350248447,67.019937888,69.692236025
+State,46,South Dakota,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,2,14,24,24,316.22625,249.74666667,199.62791667,204.83083333
+State,46,South Dakota,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,29,633,728,707,1063.2307143,284.63192308,221.90524725,231.55182692
+State,46,South Dakota,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,1,27,47,47,478.05489362,449.49468085,359.31553191,358.70234043
+State,46,South Dakota,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,26,579,621,617,363.40801932,78.933800322,62.957568438,65.487971014
+State,46,South Dakota,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,1,24,42,41,263.8747619,248.3152381,198.49666667,197.20595238
+State,46,South Dakota,64640,Destruction of peripheral nerve or branch,N,F,17,159,446,173,144.08130045,77.609843049,60.113542601,52.474596413
+State,46,South Dakota,64640,Destruction of peripheral nerve or branch,N,O,9,59,180,82,825.15894444,174.37377778,138.33366667,135.34033333
+State,46,South Dakota,77002,Fluoroscopic guidance for needle placement,N,F,78,955,1171,1170,143.84412468,25.712664389,19.480717336,20.144560205
+State,46,South Dakota,77002,Fluoroscopic guidance for needle placement,N,O,21,202,280,280,213.72789286,110.75446429,85.524714286,86.942964286
+State,47,Tennessee,64624,Destruction of nerve branches of knee using imaging guidance,N,F,72,263,461,440,1970.3126898,399.51021692,314.4608243,346.54156182
+State,47,Tennessee,64624,Destruction of nerve branches of knee using imaging guidance,N,O,43,180,197,197,1479.7900508,312.30309645,243.71700508,267.30568528
+State,47,Tennessee,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,34,49,116,95,2543.6882759,477.79551724,370.29517241,406.2237931
+State,47,Tennessee,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,23,60,73,73,2016.6476712,431.94383562,332.01082192,373.00315068
+State,47,Tennessee,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,114,846,2186,1740,2540.9628957,444.91850869,351.29297347,393.83069076
+State,47,Tennessee,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,71,570,700,700,1675.3314,421.92738571,330.81025714,387.05998571
+State,47,Tennessee,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,77,691,931,819,567.57071966,72.018549946,57.14037594,62.242975295
+State,47,Tennessee,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,68,534,727,653,877.82631362,236.06169188,188.52778542,226.7561348
+State,47,Tennessee,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,142,2983,8056,5928,2915.4207944,450.89764896,356.0100571,396.43891882
+State,47,Tennessee,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,91,2204,2803,2803,1860.5168355,476.03153764,371.73443097,420.57271495
+State,47,Tennessee,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,98,2533,3180,2929,569.83692767,71.407823899,56.846050314,60.908169811
+State,47,Tennessee,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,90,2106,3003,2693,816.78511156,247.78982351,197.91466533,226.0827639
+State,47,Tennessee,64640,Destruction of peripheral nerve or branch,N,F,47,144,289,207,958.76567474,102.18847751,80.01266436,82.890553633
+State,47,Tennessee,64640,Destruction of peripheral nerve or branch,N,O,49,262,853,342,914.88311841,167.12066823,132.38563892,140.94005862
+State,47,Tennessee,77002,Fluoroscopic guidance for needle placement,N,F,274,1804,2063,2063,143.3767523,24.825647116,19.345031508,20.583965099
+State,47,Tennessee,77002,Fluoroscopic guidance for needle placement,N,O,211,2772,4649,4647,227.52859325,95.125093569,72.666252958,81.935194666
+State,48,Texas,64624,Destruction of nerve branches of knee using imaging guidance,N,F,382,1159,2144,2068,2599.9300606,371.3734375,291.82748134,302.17205224
+State,48,Texas,64624,Destruction of nerve branches of knee using imaging guidance,N,O,243,945,1146,1146,2455.0834468,366.77511344,286.87149215,297.76665794
+State,48,Texas,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,267,952,2084,1909,3127.1060221,429.65731766,337.18739443,351.82477447
+State,48,Texas,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,153,818,1425,1425,2266.6198035,483.42063158,377.26898246,393.18070877
+State,48,Texas,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,514,3033,7100,6067,3709.3583127,445.35451831,351.79327606,369.27380563
+State,48,Texas,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,350,2470,3090,3090,2660.8119968,499.714589,392.29423625,411.64642718
+State,48,Texas,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,372,2759,4081,3402,865.0061039,75.075893163,59.750629748,61.912741975
+State,48,Texas,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,341,2370,3763,2963,1241.4129471,292.0340473,233.00072017,244.41699973
+State,48,Texas,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,636,8732,20597,17487,3856.7014638,441.89246055,349.30796621,364.73372239
+State,48,Texas,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,454,7466,9492,9491,2638.2192183,529.4875295,416.49766856,434.32084176
+State,48,Texas,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,478,8105,12211,10269,791.60644419,68.250569978,54.335986406,55.875977397
+State,48,Texas,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,450,7251,11412,9242,1134.6863775,285.41753067,227.67641868,238.44449176
+State,48,Texas,64640,Destruction of peripheral nerve or branch,N,F,268,1259,3823,1914,1034.2358043,93.355770337,72.796740779,66.843489406
+State,48,Texas,64640,Destruction of peripheral nerve or branch,N,O,307,1510,4584,2329,977.46373909,183.96714442,144.59430846,133.83643325
+State,48,Texas,77002,Fluoroscopic guidance for needle placement,N,F,1075,8924,10660,10655,187.35650469,27.781741088,21.621565666,22.22625985
+State,48,Texas,77002,Fluoroscopic guidance for needle placement,N,O,883,15050,36645,36637,380.54201828,108.91984336,84.559786601,86.496822759
+State,49,Utah,64624,Destruction of nerve branches of knee using imaging guidance,N,F,29,98,147,144,1435.7698639,290.9285034,230.03632653,236.45965986
+State,49,Utah,64624,Destruction of nerve branches of knee using imaging guidance,N,O,53,204,251,251,1229.300239,318.71701195,251.28689243,264.49928287
+State,49,Utah,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,13,26,41,39,1728.0534146,358.14780488,267.6497561,275.85634146
+State,49,Utah,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,20,53,69,69,1661.3142029,450.93927536,338.70536232,359.41594203
+State,49,Utah,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,41,214,399,392,1713.0902757,362.01177945,285.4839599,297.68661654
+State,49,Utah,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,74,674,959,959,1437.8160792,404.57977059,315.61242961,339.4461001
+State,49,Utah,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,30,191,259,258,618.50208494,70.193938224,56.006602317,57.450501931
+State,49,Utah,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,73,602,866,856,703.11861432,234.62315242,187.28444573,202.24017321
+State,49,Utah,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,51,651,1308,1274,1704.6038685,407.63155963,319.27610092,333.88111621
+State,49,Utah,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,93,2308,3225,3225,1452.8817085,464.15514419,364.29580465,391.07460155
+State,49,Utah,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,36,571,786,782,562.0562341,66.306717557,52.685610687,53.754083969
+State,49,Utah,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,90,2113,2955,2933,591.86994585,245.96312352,196.04924196,210.87830457
+State,49,Utah,64640,Destruction of peripheral nerve or branch,N,F,16,44,109,55,515.18688073,90.54266055,69.792385321,59.497431193
+State,49,Utah,64640,Destruction of peripheral nerve or branch,N,O,59,419,1557,607,588.2137508,151.74280026,118.49908799,108.05075145
+State,49,Utah,77002,Fluoroscopic guidance for needle placement,N,F,132,846,1016,1016,103.03808071,24.834488189,18.94367126,19.531023622
+State,49,Utah,77002,Fluoroscopic guidance for needle placement,N,O,152,2850,4749,4748,298.2909223,105.48086755,81.444537797,87.173562855
+State,50,Vermont,64624,Destruction of nerve branches of knee using imaging guidance,N,O,6,20,27,27,1766.2222222,254.80037037,196.44518519,199.3737037
+State,50,Vermont,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,4,35,52,52,1902.3461538,194.11884615,149.25538462,154.16807692
+State,50,Vermont,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,9,65,89,89,2318.7498876,339.79876404,258.87370787,269.85314607
+State,50,Vermont,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,3,26,38,38,1191.7631579,67.286578947,53.61,54.405263158
+State,50,Vermont,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,9,55,76,76,1414.7930263,172.96710526,137.87078947,144.19526316
+State,50,Vermont,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,6,129,169,169,1949.3461538,218.24532544,167.35869822,168.42698225
+State,50,Vermont,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,8,143,187,187,2574.7770053,374.11315508,290.11534759,295.99139037
+State,50,Vermont,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,6,124,161,161,1022.8850932,65.97552795,51.990186335,52.692484472
+State,50,Vermont,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,8,132,174,173,1378.4798851,166.45109195,132.22431034,134.28183908
+State,50,Vermont,64640,Destruction of peripheral nerve or branch,N,F,6,76,242,81,648.07438017,75.960661157,58.987479339,44.985743802
+State,50,Vermont,77002,Fluoroscopic guidance for needle placement,N,F,38,508,583,583,179.90089194,26.118490566,19.597598628,19.962109777
+State,50,Vermont,77002,Fluoroscopic guidance for needle placement,N,O,11,162,206,206,279.26592233,86.913543689,63.40131068,65.211067961
+State,51,Virginia,64624,Destruction of nerve branches of knee using imaging guidance,N,F,44,160,219,219,1043.1934247,233.80461187,180.18200913,185.44808219
+State,51,Virginia,64624,Destruction of nerve branches of knee using imaging guidance,N,O,69,383,485,485,1338.5123299,393.86771134,305.96490722,294.81430928
+State,51,Virginia,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,20,46,58,57,1166.0058621,266.63862069,204.89586207,206.82189655
+State,51,Virginia,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,41,174,219,219,1726.6422374,529.35657534,403.85324201,377.49365297
+State,51,Virginia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,44,260,374,374,1556.6906684,286.30641711,222.08925134,229.61425134
+State,51,Virginia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,107,1119,1414,1414,1821.8946535,478.3095686,375.28514144,363.81442008
+State,51,Virginia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,38,235,329,290,502.24841945,68.199574468,53.743404255,54.670091185
+State,51,Virginia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,102,1015,1503,1287,922.38077844,280.34899534,224.03143713,216.66898869
+State,51,Virginia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,62,929,1426,1387,1557.6787868,314.7735554,245.16642356,254.26590463
+State,51,Virginia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,128,4762,6269,6269,2021.3363631,533.93810177,419.25783857,409.5775674
+State,51,Virginia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,52,829,1146,1057,436.93851658,65.960593368,52.268638743,52.488612565
+State,51,Virginia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,127,4466,6557,5896,953.30014031,286.80719079,228.986596,222.44023334
+State,51,Virginia,64640,Destruction of peripheral nerve or branch,N,F,18,46,95,49,1031.2263158,108.44610526,85.235263158,80.080736842
+State,51,Virginia,64640,Destruction of peripheral nerve or branch,N,O,71,328,1001,668,564.54523477,228.91787213,180.48812188,167.34654346
+State,51,Virginia,77002,Fluoroscopic guidance for needle placement,N,F,346,3013,3435,3433,92.723781659,26.061636099,19.998165939,20.045892285
+State,51,Virginia,77002,Fluoroscopic guidance for needle placement,N,O,300,7270,18149,18106,337.45930299,105.89247011,81.957451099,81.707245027
+State,53,Washington,64624,Destruction of nerve branches of knee using imaging guidance,N,F,60,169,281,269,1207.4208185,385.28711744,304.25142349,289.12857651
+State,53,Washington,64624,Destruction of nerve branches of knee using imaging guidance,N,O,33,104,119,119,1425.4810084,378.9889916,292.97647059,275.66798319
+State,53,Washington,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,43,138,312,290,3334.5128526,476.33839744,371.60275641,366.98858974
+State,53,Washington,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,O,20,51,59,59,1634.6644068,570.86389831,436.54033898,409.92728814
+State,53,Washington,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,102,665,1444,1320,1919.9492798,479.4208241,378.16708449,368.94784626
+State,53,Washington,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,51,258,320,320,1666.6273125,483.66265625,380.6225625,369.34521875
+State,53,Washington,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,76,500,619,619,617.47520194,72.275508885,57.363004847,57.698820679
+State,53,Washington,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,46,231,286,285,757.44814685,282.01937063,224.66104895,218.25818182
+State,53,Washington,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,127,1978,4337,3440,2225.2411713,484.02689417,381.04821766,367.48881715
+State,53,Washington,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,74,889,1061,1060,1854.0043167,532.85960415,416.30389255,403.04493874
+State,53,Washington,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,99,1650,1846,1843,573.2345558,74.314853738,59.01176598,58.995937161
+State,53,Washington,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,69,787,955,954,857.73098429,286.71560209,228.66588482,222.57361257
+State,53,Washington,64640,Destruction of peripheral nerve or branch,N,F,44,129,629,204,943.69742448,88.406295707,69.398060413,65.792655008
+State,53,Washington,64640,Destruction of peripheral nerve or branch,N,O,33,171,606,201,592.03506601,154.33927393,122.26029703,102.02825083
+State,53,Washington,77002,Fluoroscopic guidance for needle placement,N,F,326,2522,2843,2843,105.31925079,26.270007035,20.257857897,20.04970102
+State,53,Washington,77002,Fluoroscopic guidance for needle placement,N,O,334,4050,5312,5312,303.70372364,109.37956325,84.450540286,82.238701054
+State,54,West Virginia,64624,Destruction of nerve branches of knee using imaging guidance,N,F,17,68,79,79,545.41303797,148.43253165,115.14278481,118.28721519
+State,54,West Virginia,64624,Destruction of nerve branches of knee using imaging guidance,N,O,6,17,27,27,531.51851852,195.54777778,154.10666667,162.80666667
+State,54,West Virginia,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,9,31,36,36,696.65222222,190.21638889,146.82611111,157.67416667
+State,54,West Virginia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,20,157,204,201,865.17210784,217.66720588,170.52264706,177.40044118
+State,54,West Virginia,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,8,75,92,92,754.16304348,311.97956522,237.50032609,269.54293478
+State,54,West Virginia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,18,150,205,187,252.268,66.924146341,52.818195122,53.004780488
+State,54,West Virginia,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,7,71,141,88,294.81560284,167.58794326,132.75921986,151.23907801
+State,54,West Virginia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,27,801,1274,1255,907.99405024,240.10705651,185.04349294,196.32018838
+State,54,West Virginia,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,12,296,396,396,824.93939394,298.87982323,229.95616162,252.0479798
+State,54,West Virginia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,24,761,1189,1120,249.93463415,58.560370059,46.12470984,47.601269975
+State,54,West Virginia,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,12,283,525,378,275.25142857,113.27129524,89.330952381,102.14335238
+State,54,West Virginia,64640,Destruction of peripheral nerve or branch,N,F,16,76,164,91,503.4325,81.870365854,62.137439024,63.381829268
+State,54,West Virginia,77002,Fluoroscopic guidance for needle placement,N,F,103,1058,1385,1385,361.80675812,28.572859206,22.159350181,22.732548736
+State,54,West Virginia,77002,Fluoroscopic guidance for needle placement,N,O,18,146,175,175,148.78125714,52.800457143,41.904228571,44.793257143
+State,55,Wisconsin,64624,Destruction of nerve branches of knee using imaging guidance,N,F,127,670,1018,990,3053.1029568,287.54923379,222.2428389,226.24720039
+State,55,Wisconsin,64624,Destruction of nerve branches of knee using imaging guidance,N,O,30,135,159,159,2224.9265409,239.46138365,186.98301887,197.77
+State,55,Wisconsin,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,135,677,1319,1238,3721.7997498,399.22652009,314.54689917,331.12968158
+State,55,Wisconsin,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,25,108,138,138,3130.2207246,315.99188406,247.10514493,264.46217391
+State,55,Wisconsin,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,103,559,690,689,1199.7297826,67.577275362,53.550405797,57.063898551
+State,55,Wisconsin,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,24,103,132,132,1265.8343939,169.27810606,134.69530303,142.94022727
+State,55,Wisconsin,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,169,2446,4599,4085,4409.1693781,398.6167232,314.25055664,327.55867145
+State,55,Wisconsin,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,44,615,798,798,3645.5791479,369.619599,287.62384712,301.6026817
+State,55,Wisconsin,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,130,2106,2566,2542,1264.5389322,66.510557288,52.859696025,55.799664848
+State,55,Wisconsin,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,43,561,738,736,1235.968523,177.82437669,141.99097561,149.21600271
+State,55,Wisconsin,64640,Destruction of peripheral nerve or branch,N,F,77,232,713,333,2024.1393408,92.837685835,73.096914446,64.513380084
+State,55,Wisconsin,64640,Destruction of peripheral nerve or branch,N,O,46,179,515,191,1423.5526796,142.46932039,112.73217476,93.853669903
+State,55,Wisconsin,77002,Fluoroscopic guidance for needle placement,N,F,508,4074,4793,4792,293.35969539,24.775474651,19.173158773,20.101383267
+State,55,Wisconsin,77002,Fluoroscopic guidance for needle placement,N,O,250,2267,4439,4380,433.37182474,97.13390178,74.978833071,78.922838477
+State,56,Wyoming,64624,Destruction of nerve branches of knee using imaging guidance,N,F,8,14,27,23,2280.9211111,478.36111111,374.49925926,383.31185185
+State,56,Wyoming,64625,Destruction of nerves supplying joint between spine and pelvis using imaging guidance,N,F,6,13,16,15,1662.36875,349.925,259.049375,265.734375
+State,56,Wyoming,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,F,11,64,100,89,3227.5893,487.3626,382.2296,411.5839
+State,56,Wyoming,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,2,11,14,14,1942.0714286,534.79785714,414.58928571,456.56714286
+State,56,Wyoming,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,4,23,23,23,1035.8478261,75.066521739,59.880869565,60.30173913
+State,56,Wyoming,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,F,15,233,462,318,3399.1960606,509.21285714,399.95703463,414.84569264
+State,56,Wyoming,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,3,39,56,56,2051.9285714,530.67875,411.21875,407.80928571
+State,56,Wyoming,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,F,9,105,114,111,956.17245614,79.274298246,63.200350877,63.864210526
+State,56,Wyoming,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,3,35,50,50,751.06,287.4912,229.6948,227.3628
+State,56,Wyoming,77002,Fluoroscopic guidance for needle placement,N,F,34,357,385,385,170.11163636,26.321922078,20.315168831,20.492337662
+State,56,Wyoming,77002,Fluoroscopic guidance for needle placement,N,O,18,154,174,174,242.31890805,63.844597701,49.282586207,49.294425287
+State,66,Guam,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,1,17,17,17,540.15176471,456.17176471,363.56941176,524.24764706
+State,66,Guam,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,1,14,14,14,388.86714286,326.40285714,260.06,275.16571429
+State,66,Guam,77002,Fluoroscopic guidance for needle placement,N,O,3,32,41,41,134.12073171,123,89.550731707,86.738292683
+State,72,Puerto Rico,64633,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, single facet joint",N,O,10,51,61,61,425.69622951,369.25245902,275.48180328,348.1595082
+State,72,Puerto Rico,64634,"Destruction of upper or middle spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,8,39,56,49,204.90071429,184.76803571,147.21482143,219.46607143
+State,72,Puerto Rico,64635,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, single facet joint",N,O,17,159,202,202,401.95039604,379.54915842,293.91638614,360.27118812
+State,72,Puerto Rico,64636,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint",N,O,16,143,214,187,189.22714953,181.76514019,144.84219626,201.18364486
+State,72,Puerto Rico,64640,Destruction of peripheral nerve or branch,N,O,3,37,96,56,254.419375,158.9821875,124.52291667,104.96885417
+State,72,Puerto Rico,77002,Fluoroscopic guidance for needle placement,N,O,5,455,2868,2868,219.41461646,110.51609135,87.132799861,92.300871688

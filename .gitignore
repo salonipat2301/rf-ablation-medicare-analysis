@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# macOS metadata
+.DS_Store
+
+# Excel temporary files
+~$*.xlsx
+
+# Large local-only CMS source file
+Medicare Physician & Other Practitioners - by Provider 2/2023/MUP_PHY_R25_P05_V20_D23_Prov.csv
+MUP_PHY_R25_P05_V20_D23_Prov_Svc.csv

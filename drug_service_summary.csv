@@ -1,0 +1,7 @@
+,,Drug_Service_Pct,Drug_Service_Pct,Drug_Service_Pct,Drug_Service_Pct,Provider_Density,Provider_Density,Provider_Density,Provider_Density,Total_Services,Drug_Services
+,,mean,std,min,max,mean,std,min,max,sum,sum
+Urban_Rural,Place_Of_Srvc,,,,,,,,,,
+Rural,F,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.07,9744,0
+Rural,O,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.07,8095,0
+Urban,F,0.0,0.0,0.0,0.0,0.02,0.02,0.0,0.09,536128,0
+Urban,O,0.0,0.0,0.0,0.0,0.02,0.01,0.0,0.07,675089,0
