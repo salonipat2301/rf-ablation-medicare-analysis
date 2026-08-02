@@ -1,8 +1,0 @@
-Field Name,Field Type,# Records Have Values,% Populated,# Zeros,Min,Max,Mean,Standard Deviation,Most Common
-Tot_Benes,numeric,23480,100.0%,0,11.0,2427.0,32.95,40.21,11.0
-Tot_Srvcs,numeric,23480,100.0%,0,11.0,14083.0,52.56,156.51,14.0
-Tot_Bene_Day_Srvcs,numeric,23480,100.0%,0,11.0,14083.0,47.58,152.97,14.0
-Avg_Sbmtd_Chrg,numeric,23480,100.0%,0,21.0,38829.7,1431.65,2080.01,315.0
-Avg_Mdcr_Alowd_Amt,numeric,23480,100.0%,0,20.06,1220.59,241.21,218.15,28.78
-Avg_Mdcr_Pymt_Amt,numeric,23480,100.0%,0,13.08,968.11,189.8,172.7,20.71
-Avg_Mdcr_Stdzd_Amt,numeric,23480,100.0%,0,14.05,966.76,193.03,174.55,21.26

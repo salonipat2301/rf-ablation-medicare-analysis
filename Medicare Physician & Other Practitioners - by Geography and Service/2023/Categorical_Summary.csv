@@ -1,8 +1,0 @@
-Field Name,Field Type,# Records Have Values,% Populated,# Zeros,# Unique Values,Most Common
-Rndrng_Prvdr_Geo_Lvl,categorical,790,100.0%,0,2,State
-Rndrng_Prvdr_Geo_Cd,categorical,774,98.0%,16,53,01
-Rndrng_Prvdr_Geo_Desc,categorical,790,100.0%,0,54,Alabama
-HCPCS_Cd,categorical,790,100.0%,0,8,64635
-HCPCS_Desc,categorical,790,100.0%,0,8,"Destruction of lower or sacral spinal facet joint nerves using imaging guidance, each additional facet joint"
-HCPCS_Drug_Ind,categorical,790,100.0%,0,1,N
-Place_Of_Srvc,categorical,790,100.0%,0,2,F
