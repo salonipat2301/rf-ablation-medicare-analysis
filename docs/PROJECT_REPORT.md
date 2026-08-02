@@ -1,148 +1,52 @@
-# Project Report
+# Report and plot field guide
 
-This repository is an RF ablation Medicare analysis workspace built from CMS Physician & Other Practitioners data.
+This is the compact field guide for the published PDF, [`Report on Treatment Access & Distribution Analysis.pdf`](../Report%20on%20Treatment%20Access%20%26%20Distribution%20Analysis.pdf). It documents only the fields needed to understand the report’s plots and summary tables.
 
-## Snapshot
+## Report objective
 
-- Total files discovered: 78
-- Python scripts: 5
-- CSV outputs/data files: 25
-- PNG figures: 27
-- PDF references: 10
-- Excel workbooks: 3
-- Cache/temp files: 5 `.pyc` files plus macOS metadata
+Describe Medicare RF-ablation treatment distribution and surface possible access differences by state, care setting, and rural/urban context. The analysis is descriptive and intended to support questions for follow-up.
 
-## Workflow
+## Plot-facing fields
 
-1. `analysis.py` filters the provider-service CMS file to RF ablation CPT codes.
-2. `Medicare Physician & Other Practitioners - by Geography and Service/2023/data.py` filters the geography-service CMS file to the same CPT set.
-3. `Medicare Physician & Other Practitioners - by Geography and Service/2023/summeries.py` builds numeric and categorical summaries from the filtered geography output.
-4. `final.py` performs the main provider-side analysis, generates state and drug-service summaries, and writes the primary charts.
-5. `rural.py` combines the summary tables into ZIP targeting and state opportunity outputs.
+| Field | Meaning in this repository | Used for |
+|---|---|---|
+| `HCPCS_Cd` | RF procedure code | Procedure-volume comparisons |
+| `Rndrng_Prvdr_State_Abrvtn` | Provider state abbreviation | State comparisons |
+| `Rndrng_Prvdr_Zip5` | Provider ZIP code | ZIP-level opportunity screening |
+| `Place_Of_Srvc` | CMS place-of-service code (`F` facility, `O` office) | Setting comparisons |
+| `Rndrng_Prvdr_RUCA_Desc` | CMS RUCA description | Rural/urban classification |
+| `Urban_Rural` | Derived grouping from RUCA description | Rural/urban plots |
+| `Tot_Srvcs` / `Total_Services` | Reported services | Volume and utilization |
+| `Tot_Benes` / `Total_Beneficiaries` | Reported beneficiaries | Population served |
+| `Tot_Bene_Day_Srvcs` / `Total_Beneficiary_Days` | Reported beneficiary-day services | Visit/activity proxy |
+| `Rndrng_NPI` / `Unique_Providers` | Provider identifier and distinct-provider count | Provider access measures |
+| `Provider_Coverage` | `Unique_Providers / Total_Beneficiaries` | National setting comparison |
+| `Provider_Density_Per_Day` | `Unique_Providers / Total_Beneficiary_Days` | National setting comparison |
+| `Provider_Density` | `Unique_Providers / Total_Beneficiaries` in state/CPT summaries | State and procedure comparisons |
+| `Visits_per_Provider` | `Total_Beneficiary_Days / Unique_Providers` | Provider workload proxy |
+| `Gap_Ratio` | Urban provider density divided by rural provider density | State gap comparison |
+| `Drug_Services` | Services flagged as drug services in the source | Service-mix analysis |
+| `Drug_Service_Pct` | `Drug_Services / Total_Services * 100` | Service-mix plots |
+| `Opportunity_Index` | Derived ZIP screening score | Targeting screen |
+| `Total_Providers` / `Num_Target_ZIPs` | Provider count and selected ZIP count | Targeting summaries |
 
-## Script Inventory
+The detailed provider identity, address, credential, payment, and source metadata columns remain in the filtered data for traceability, but they are not required to read the report plots.
 
-### `analysis.py`
+## Source and transformation path
 
-- Purpose: filter the provider-service source file to RF ablation CPT codes.
-- Input: a CMS provider-service CSV with an `HCPCS_Cd` column.
-- Output: `Filtered_RF_Providers.csv`.
-- Notes: the script now accepts `--input` and `--output` so the source file can live anywhere locally.
+1. CMS provider-service data is filtered to HCPCS/CPT codes `64633`, `64634`, `64635`, `64636`, `64624`, `64625`, `64640`, and `77002` by `analysis.py`.
+2. The CMS geography-service extract is filtered by `Medicare Physician & Other Practitioners - by Geography and Service/2023/data.py`.
+3. `final.py` aggregates the filtered provider rows by setting, state, RUCA grouping, and service mix, then writes the report-facing CSVs and PNGs.
+4. `rural.py` applies the ZIP/state screening logic and writes targeting outputs.
 
-### `Medicare Physician & Other Practitioners - by Geography and Service/2023/data.py`
+## Interpretation notes
 
-- Purpose: filter the geography-service source file to RF ablation CPT codes.
-- Input: `MUP_PHY_R25_P05_V20_D23_Geo.csv`.
-- Output: `Filtered_RF_Geography_Service.csv`.
-- Notes: the script writes the filtered file back to the repository root for downstream use.
+The counts describe 2023 Medicare activity captured by CMS. They are not estimates of all-payer demand, total patients, clinician capacity, travel burden, or unmet need. Ratios can be unstable where counts are small or zero. RUCA imputation and project-specific geographic corrections occur in `final.py`; any comparison involving rural/urban labels should be read with that assumption in mind.
 
-### `Medicare Physician & Other Practitioners - by Geography and Service/2023/summeries.py`
+## Main report-facing outputs
 
-- Purpose: create data-quality summaries for the filtered geography file.
-- Inputs: `Filtered_RF_Geography_Service.csv`.
-- Outputs: `Numeric_Summary.csv` and `Categorical_Summary.csv` in the geography folder.
-
-### `final.py`
-
-- Purpose: run the main analysis on the filtered provider data.
-- Inputs: `Filtered_RF_Providers.csv`.
-- Outputs:
-  - `us_summary.csv`
-  - `cpt_summary.csv`
-  - `state_summary.csv`
-  - `comprehensive_state_analysis.csv`
-  - `all_states_summary.csv`
-  - `drug_service_analysis.csv`
-  - `drug_service_summary.csv`
-  - `provider_density_drug_correlation.csv`
-  - `Numeric_Summary.csv`
-  - `Categorical_Summary.csv`
-  - `missing.csv`
-  - `us_provider_density.png`
-  - `us_provider_density_per_day.png`
-  - `Visits_per_Provider.png`
-  - `state_level_analysis_appendix.png`
-  - `top5_state_gaps_facility.png`
-  - `bottom5_state_gaps_facility.png`
-  - `drug_services_by_state.png`
-  - `provider_density_vs_drug_services.png`
-  - `drug_services_heatmap.png`
-  - `drug_services_boxplot.png`
-- Notes: this is the main reporting script for the project.
-
-### `rural.py`
-
-- Purpose: produce state and ZIP targeting outputs from the summary tables.
-- Inputs:
-  - `RF_Procedure_Volume_by_CPT_and_Provider_Type.csv`
-  - `State_Level_RF_Access_and_Distribution.csv`
-  - `Opportunity_Index_by_ZIP.csv`
-  - `Opportunity_Index_by_State.csv`
-  - `Filtered_RF_Providers.csv`
-- Outputs:
-  - `Top_25_Target_ZIPs.csv`
-  - `State_Target_ZIP_Counts.csv`
-  - `Enhanced_Top_25_Target_ZIPs_with_Provider.csv`
-- Notes: the script also shows two charts interactively with `plt.show()`.
-
-## Current Data Products
-
-### Provider-side outputs
-
-- `Filtered_RF_Providers.csv`
-- `us_summary.csv`
-- `cpt_summary.csv`
-- `state_summary.csv`
-- `comprehensive_state_analysis.csv`
-- `all_states_summary.csv`
-- `drug_service_analysis.csv`
-- `drug_service_summary.csv`
-- `provider_density_drug_correlation.csv`
-
-### Geography-side outputs
-
-- `Filtered_RF_Geography_Service.csv`
-- `Numeric_Summary.csv`
-- `Categorical_Summary.csv`
-
-### Targeting outputs
-
-- `RF_Procedure_Volume_by_CPT_and_Provider_Type.csv`
-- `State_Level_RF_Access_and_Distribution.csv`
-- `Opportunity_Index_by_ZIP.csv`
-- `Opportunity_Index_by_State.csv`
-- `Top_25_Target_ZIPs.csv`
-- `State_Target_ZIP_Counts.csv`
-- `Enhanced_Top_25_Target_ZIPs_with_Provider.csv`
-
-## Large Files
-
-- `Medicare Physician & Other Practitioners - by Provider 2/2023/MUP_PHY_R25_P05_V20_D23_Prov.csv` is about 472.4 MB and should stay out of a normal GitHub repository.
-- `Medicare Physician & Other Practitioners - by Geography and Service/2023/MUP_PHY_R25_P05_V20_D23_Geo.csv` is about 40.1 MB.
-- `Filtered_RF_Providers.csv` is about 7.7 MB.
-
-## Legacy Artifacts
-
-The older or one-off outputs have been moved to `archive/legacy_outputs/`. They are useful as historical artifacts but should be treated separately from the core workflow:
-
-- `top_disparity_states_summary.csv`
-- `top_gap_states_facility.png`
-- `top_gap_states_office.png`
-- `state_gaps_facility.png`
-- `state_gaps_office.png`
-- `top10_state_gaps_facility.png`
-- `bottom10_state_gaps_facility.png`
-- `top_cpt_density.png`
-- `cpt_density_heatmap.png`
-- `drug_service_analysis.png`
-- `Provider Density-Urban vs Rural.png`
-- `Top RF Procedure Volumes.png`
-- `Top 10 states by RF procedure Volumne.png`
-- Screenshot captures from June and October 2025
-
-## Cleanup Recommendations
-
-- Initialize a Git repository before publishing.
-- Keep the raw 472 MB provider CSV local, or store it outside the repo.
-- Consider moving current outputs into a dedicated `outputs/` folder if you want the root to stay minimal.
-- Remove `__pycache__` and `.DS_Store` files from the working tree when you are ready to commit.
+- `us_summary.csv` — national setting and rural/urban measures.
+- `state_summary.csv` and `comprehensive_state_analysis.csv` — state-level provider and gap measures.
+- `drug_service_analysis.csv` and `drug_service_summary.csv` — service-mix measures.
+- `Opportunity_Index_by_ZIP.csv`, `Top_25_Target_ZIPs.csv`, and `State_Target_ZIP_Counts.csv` — screening outputs.
+- PNG files in the repository root — figures used by the analysis workflow.

@@ -1,74 +1,59 @@
-# RF Ablation Medicare Analysis
+# RF Ablation Medicare Access & Distribution Analysis
 
-This project analyzes CMS Medicare Physician & Other Practitioners data to estimate RF ablation access, volume, and targeting opportunities across geography, provider type, and rural/urban context.
+## Objective
 
-## What The Repo Does
+This repository evaluates where Medicare RF-ablation services are being delivered and where access may be uneven. It uses CMS Medicare Physician & Other Practitioners data to compare service volume, beneficiaries, providers, and provider density across states, place of service, and rural/urban context. The intended use is descriptive planning: identify patterns that deserve further investigation, not make a clinical, quality, or causal claim.
 
-- Filters raw CMS provider-service data to RF ablation CPT codes.
-- Filters raw CMS geography-service data to the same CPT set.
-- Generates numeric and categorical summaries for the filtered geography data.
-- Builds national, state-level, and drug-service analyses from the filtered provider data.
-- Identifies target ZIP codes and state-level opportunity counts.
-- Produces charts and CSVs that support a final report or slide deck.
+## Published report
 
-## Main Scripts
+Read the report: [`Report on Treatment Access & Distribution Analysis.pdf`](Report%20on%20Treatment%20Access%20%26%20Distribution%20Analysis.pdf)
 
-- `analysis.py` filters the provider-service source file down to RF CPT rows and writes `Filtered_RF_Providers.csv`.
-- `Medicare Physician & Other Practitioners - by Geography and Service/2023/data.py` filters the geography-service source file and writes `Filtered_RF_Geography_Service.csv`.
-- `Medicare Physician & Other Practitioners - by Geography and Service/2023/summeries.py` creates the numeric and categorical summary tables for the filtered geography file.
-- `final.py` performs the main analysis pass on the filtered provider data and writes the core summary CSVs and figures.
-- `rural.py` consumes the summary tables and builds ZIP targeting outputs plus state/state-gap visualizations.
+The report’s figures are generated from the plot-facing summary fields documented in [`docs/PROJECT_REPORT.md`](docs/PROJECT_REPORT.md). The raw files contain additional columns, but those columns are not needed to interpret the charts.
 
-## Data Inputs
+## What viewers should look at
 
-- `Medicare Physician & Other Practitioners - by Provider 2/2023/MUP_PHY_R25_P05_V20_D23_Prov.csv` is a very large raw CMS source file and is too large to publish directly on GitHub.
-- `Medicare Physician & Other Practitioners - by Geography and Service/2023/MUP_PHY_R25_P05_V20_D23_Geo.csv` is the geography-service source used by the geography filter script.
-- `MUP_PHY_RY25_20250408_TBL_POS.xlsx` and the PDF files are supporting reference material.
+- **Access and volume:** `Total_Services`, `Total_Beneficiaries`, `Total_Beneficiary_Days`, and `Unique_Providers`.
+- **Provider measures:** `Provider_Coverage`, `Provider_Density_Per_Day`, `Provider_Density`, and `Visits_per_Provider`.
+- **Geography and setting:** `Rndrng_Prvdr_State_Abrvtn`, `Rndrng_Prvdr_Zip5`, `Place_Of_Srvc`, and `Urban_Rural`.
+- **Procedure and mix:** `HCPCS_Cd`, `Drug_Services`, and `Drug_Service_Pct`.
+- **Targeting:** `Opportunity_Index`, `Total_Providers`, and `Num_Target_ZIPs`.
 
-## Outputs
+In the charts, `F` means facility and `O` means office. “Urban” and “Rural” are derived from the CMS RUCA description; they are analysis groupings, not a new CMS geographic designation.
 
-The project currently writes a mix of derived CSVs and figures into the repository root and the geography subfolder. The main active outputs include:
+## Data sources
 
-- `Filtered_RF_Providers.csv`
-- `Filtered_RF_Geography_Service.csv`
-- `Numeric_Summary.csv`
-- `Categorical_Summary.csv`
-- `us_summary.csv`
-- `cpt_summary.csv`
-- `state_summary.csv`
-- `comprehensive_state_analysis.csv`
-- `all_states_summary.csv`
-- `drug_service_analysis.csv`
-- `drug_service_summary.csv`
-- `provider_density_drug_correlation.csv`
-- `RF_Procedure_Volume_by_CPT_and_Provider_Type.csv`
-- `State_Level_RF_Access_and_Distribution.csv`
-- `Opportunity_Index_by_ZIP.csv`
-- `Opportunity_Index_by_State.csv`
-- `Top_25_Target_ZIPs.csv`
-- `State_Target_ZIP_Counts.csv`
-- `Enhanced_Top_25_Target_ZIPs_with_Provider.csv`
-- The PNG charts written by `final.py` and `rural.py`
+The primary source is the CMS [Medicare Physician & Other Practitioners — by Provider and Service](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) dataset for 2023. The analysis also uses the CMS geography-and-service extract in `Medicare Physician & Other Practitioners - by Geography and Service/2023/`.
 
-## Run Order
+The provider-service raw CSV is intentionally not committed because it is hundreds of megabytes. Download it from CMS and pass its local path to `analysis.py`. The repository includes filtered and aggregated outputs so the published figures can be reviewed without downloading the raw provider file.
 
-1. Install dependencies with `pip install -r requirements.txt`.
-2. Run the geography filter:
-   `python "Medicare Physician & Other Practitioners - by Geography and Service/2023/data.py"`
-3. Run the geography summary script:
-   `python "Medicare Physician & Other Practitioners - by Geography and Service/2023/summeries.py"`
-4. Run the provider filter with the correct provider-service CSV path:
-   `python analysis.py --input /path/to/MUP_PHY_R25_P05_V20_D23_Prov_Svc.csv`
-5. Run the main analysis:
-   `python final.py`
-6. Run the targeting pass:
-   `python rural.py`
+RF procedure rows are selected using these HCPCS/CPT codes: `64633`, `64634`, `64635`, `64636`, `64624`, `64625`, `64640`, and `77002`. The code list is a project definition of the RF-ablation scope; it should be reviewed against the current coding guidance before reuse.
 
-## Repo Hygiene
+## Assumptions and limitations
 
-- `.gitignore` excludes Python cache files, macOS metadata, and the large raw provider CSV so the repo stays GitHub-friendly.
-- Historical screenshots and legacy charts are archived in `archive/legacy_outputs/`; the detailed inventory in `docs/PROJECT_REPORT.md` separates current outputs from older files.
+- CMS utilization is treated as a description of recorded Medicare activity, not total clinical demand or total access.
+- A provider is counted by distinct `Rndrng_NPI` within each aggregation.
+- Provider density is a ratio of providers to the relevant beneficiary or beneficiary-day count; it is not a travel-time or capacity measure.
+- `Tot_Bene_Day_Srvcs` is used as a beneficiary-day/visit proxy in several measures. It should not be interpreted as unique patients.
+- Place of service is retained as CMS reports it; facility and office comparisons are not risk-adjusted.
+- Missing RUCA descriptions are imputed in `final.py`, and a small number of known geographic values are corrected there. These transformations can affect rural/urban comparisons.
+- Opportunity scores are screening indicators built from the available utilization and provider fields. They do not establish unmet need, profitability, or causation.
+- Results describe the 2023 extract and may not represent current utilization.
 
-## Detailed Inventory
+## Reproduce the analysis
 
-See [`docs/PROJECT_REPORT.md`](docs/PROJECT_REPORT.md) for the file-by-file report and notes on legacy artifacts.
+```bash
+pip install -r requirements.txt
+python analysis.py --input /path/to/MUP_PHY_R25_P05_V20_D23_Prov_Svc.csv
+python final.py
+python rural.py
+```
+
+The geography filter and summary scripts are documented in [`docs/PROJECT_REPORT.md`](docs/PROJECT_REPORT.md). Run them when regenerating the geography-based outputs.
+
+## Repository map
+
+- `analysis.py` filters provider-service rows to the RF procedure scope.
+- `final.py` creates the national, state, rural/urban, and drug-service summaries and plots.
+- `rural.py` creates ZIP/state opportunity outputs.
+- `Filtered_RF_Providers.csv` and the summary CSVs are derived data products, not independent source data.
+- `archive/legacy_outputs/` contains historical figures that are not part of the current report.
